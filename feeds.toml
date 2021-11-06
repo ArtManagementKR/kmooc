@@ -1,4 +1,4 @@
-[kmooc_ing]
+[ing]
 title = "K-MOOC ─ 진행중"
 url = "http://www.kmooc.kr/courses?range=i"
 entrySelector = "li.courses-listing-item"
@@ -8,7 +8,7 @@ contentSelector = "div.course-date.kr01_moviesubtit"
 imageSelector = "div.cover-image img"
 waitUntil = "networkidle"
 
-[kmooc_soon]
+[soon]
 title = "K-MOOC ─ 개강예정"
 url = "http://www.kmooc.kr/courses?range=t"
 entrySelector = "li.courses-listing-item"
