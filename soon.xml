@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 17:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1인 미디어와 크리에이터]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL001+2021-3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL001+2021-3/about</guid>
+            <pubDate>Thu, 09 Dec 2021 17:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                남석현
+                </span>
+                <span class="kr01_school">Seoul Digital University Foundation</span>
+                </div>
+                <div><time>2022/01/06</time>
+                
+                ~ <time>2022/04/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SDL+SDL001+2021-3+type@asset+block@1%EC%9D%B8%EB%AF%B8%EB%94%94%EC%96%B4_2021_3%EC%B0%A8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무역상무론]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</link>
