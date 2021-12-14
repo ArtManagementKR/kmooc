@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[무역상무론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 05:37:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</guid>
+            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안병수
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[전자무역론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 05:37:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL003+2021-2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL003+2021-2/about</guid>
+            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민경기
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[보관하역론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 05:37:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL005+2021-2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL005+2021-2/about</guid>
+            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기희
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[화물운송론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 14 Dec 2021 05:37:37 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL004+2021-2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL004+2021-2/about</guid>
+            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기희
