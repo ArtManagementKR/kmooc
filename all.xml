@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 05:38:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보행훈련 : 어떻게 다시 걸을 수 있는가 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이양수 교수
+                </span>
+                <span class="kr01_school">Kyungpook National University</span>
+                </div>
+                <div><time>2021/12/15</time>
+                
+                ~ <time>2022/02/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+KMOOC_KNU01+2021_T2+type@asset+block@%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B4%ED%96%89%ED%9B%88%EB%A0%A8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선은 문명국인가 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                정재훈
+                </span>
+                <span class="kr01_school">Kyungpook National University</span>
+                </div>
+                <div><time>2021/12/15</time>
+                
+                ~ <time>2022/02/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+CORE_KNUk03+2021_Q2+type@asset+block@%EC%A1%B0%EC%84%A0%EC%9D%80_%EB%AC%B8%EB%AA%85%EA%B5%AD%EC%9D%B8%EA%B0%80_%EC%8D%B8%EB%82%B4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무역상무론 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</link>
@@ -332,42 +368,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DEU+DEU-00007+2021-T2+type@asset+block@%EC%8A%A4%ED%94%BC%EC%B9%98%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호텔을 알면 여행이 즐겁다 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KonYangK+UI_KY008+KY2021_0801/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KonYangK+UI_KY008+KY2021_0801/about</guid>
-            <pubDate>Tue, 07 Dec 2021 17:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경한
-                </span>
-                <span class="kr01_school">KONYANG UNIVERSITY</span>
-                </div>
-                <div><time>2021/12/06</time>
-                
-                ~ <time>2022/02/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KonYangK+UI_KY008+KY2021_0801+type@asset+block@%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80123.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[공간 빅데이터 프로그래밍 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_08+2021_T1/about</guid>
-            <pubDate>Mon, 06 Dec 2021 17:36:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                주용진
-                </span>
-                <span class="kr01_school">INHA TECHNICAL COLLEGE</span>
-                </div>
-                <div><time>2021/12/06</time>
-                
-                ~ <time>2022/01/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:InhatcK+inhatcK_08+2021_T1+type@asset+block@%EA%B3%B5%EA%B0%84%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1인 미디어와 크리에이터 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL001+2021-3/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL001+2021-3/about</guid>
@@ -422,6 +422,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG14k+2021_T2_1+type@asset+block@2021-%EB%8F%99%EA%B3%84_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%98%81%EC%96%B4%EC%9D%98_%EC%9E%A5%EB%B2%BD%EB%84%98%EA%B8%B01.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실전경영의 이해 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO002+2021_12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO002+2021_12/about</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이성희 and 2 others
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2021/12/22</time>
+                
+                ~ <time>2022/04/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO002+2021_12+type@asset+block@%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0_%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%8B%A4%EC%A0%84%EA%B2%BD%EC%98%81%EC%9D%98_%EC%9D%B4%ED%95%B43.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[기업가정신과혁신 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO01+2021_12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO01+2021_12/about</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이종원
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2021/12/22</time>
+                
+                ~ <time>2022/04/06</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO01+2021_12+type@asset+block@%EC%B0%B8%EA%B3%A0%EC%9A%A906.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[발달장애인 직업재활 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</guid>
@@ -438,6 +474,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU14+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%A0%EA%B8%89_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%B8-%EC%A7%81%EC%97%85%EC%9E%AC%ED%99%9C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(2): 학업과 학교생활에 관한 기술 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_020k+DGU_020k_2021/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_020k+DGU_020k_2021/about</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2021/12/20</time>
+                
+                ~ <time>2022/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_020k+DGU_020k_2021+type@asset+block@001.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(3): 실제생활기술 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_021k+DGU_021k_2021/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_021k+DGU_021k_2021/about</guid>
+            <pubDate>Wed, 15 Dec 2021 05:38:17 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김화수
+                </span>
+                <span class="kr01_school">DAEGU UNIVERSITY</span>
+                </div>
+                <div><time>2021/12/20</time>
+                
+                ~ <time>2022/02/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_021k+DGU_021k_2021+type@asset+block@002.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[발달장애 자녀를 위한 상담기법 (K-MOOC ─ 개강예정)]]></title>
@@ -510,42 +582,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU10+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B0%9C%EB%B3%84%EA%B0%95%EC%A2%8C_%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%B0%B8%EC%97%AC%ED%98%95%EC%8B%AC%EB%A6%AC%EB%B0%B1%EC%8B%A0_.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보행훈련 : 어떻게 다시 걸을 수 있는가 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</guid>
-            <pubDate>Mon, 13 Dec 2021 05:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이양수 교수
-                </span>
-                <span class="kr01_school">Kyungpook National University</span>
-                </div>
-                <div><time>2021/12/15</time>
-                
-                ~ <time>2022/02/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+KMOOC_KNU01+2021_T2+type@asset+block@%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B4%ED%96%89%ED%9B%88%EB%A0%A8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선은 문명국인가 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</guid>
-            <pubDate>Mon, 13 Dec 2021 05:38:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정재훈
-                </span>
-                <span class="kr01_school">Kyungpook National University</span>
-                </div>
-                <div><time>2021/12/15</time>
-                
-                ~ <time>2022/02/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+CORE_KNUk03+2021_Q2+type@asset+block@%EC%A1%B0%EC%84%A0%EC%9D%80_%EB%AC%B8%EB%AA%85%EA%B5%AD%EC%9D%B8%EA%B0%80_%EC%8D%B8%EB%82%B4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
