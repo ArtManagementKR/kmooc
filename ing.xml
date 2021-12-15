@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 17:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[보행훈련 : 어떻게 다시 걸을 수 있는가]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 15 Dec 2021 05:38:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</guid>
+            <pubDate>Wed, 15 Dec 2021 17:45:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이양수 교수
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[조선은 문명국인가]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 15 Dec 2021 05:38:01 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</guid>
+            <pubDate>Wed, 15 Dec 2021 17:45:06 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정재훈
