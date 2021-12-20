@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 08:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한국경제의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KUSJ+KUSJ004+2021_T2/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이충열
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[말보건관리·재활승마이론 기초과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KRA+KRA02+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KRA+KRA02+2021_1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김진갑 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[발달장애 자녀를 위한 상담기법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU12+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU12+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이진영
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[발달장애와 직업진로상담 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU13+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU13+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송수진 and 1 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[발달과 발달장애의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 남현숙
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[발달장애인 직업재활 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송창근
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[온라인 참여형 심리백신 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU10+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU10+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송종원
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[객체지향형 도면해독 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_07+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_07+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장동환
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(2): 학업과 학교생활에 관한 기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_020k+DGU_020k_2021/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_020k+DGU_020k_2021/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김화수
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[발달지연 청소년의 참 세상살이를 위한 의사소통(3): 실제생활기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 20 Dec 2021 08:15:20 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_021k+DGU_021k_2021/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DGUk+DGU_021k+DGU_021k_2021/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김화수
