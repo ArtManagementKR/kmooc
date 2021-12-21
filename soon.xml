@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -131,7 +131,7 @@
                 ~ <time>2022/02/03</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ANU+ANU2021+2021_T01+type@asset+block@images_course_image.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[실전경영의 이해]]></title>
