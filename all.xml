@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[실전경영의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 06:15:48 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO002+2021_12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO002+2021_12/about</guid>
+            <pubDate>Wed, 22 Dec 2021 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이성희 and 2 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[기업가정신과혁신 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 06:15:48 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO01+2021_12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO01+2021_12/about</guid>
+            <pubDate>Wed, 22 Dec 2021 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종원
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[생물다양성과 생물자원 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 22 Dec 2021 06:15:48 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21002K+2021_F17/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW21002K+2021_F17/about</guid>
+            <pubDate>Wed, 22 Dec 2021 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정종우
