@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 00:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 02:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[액티브시니어를 위한 힐링 요가]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 23 Dec 2021 02:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                곽애영
+                </span>
+                <span class="kr01_school">Dongduk Women's University</span>
+                </div>
+                <div><time>2021/12/23</time>
+                
+                ~ <time>2022/02/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DongdukK+DDU06+DDU06+type@asset+block@%ED%9E%90%EB%A7%81%EC%9A%94%EA%B0%80%EC%8D%B8%EB%84%A4%EC%9D%BC_342190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무역의 세계사! 무역의 시작과 21세기 무역을 보다]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 23 Dec 2021 02:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박정준
+                </span>
+                <span class="kr01_school">Ministry of Trade, Industry and Energy</span>
+                </div>
+                <div><time>2021/12/23</time>
+                
+                ~ <time>2022/01/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MOTIEtongsang+TS001+2021-1+type@asset+block@%EB%AC%B4%EC%97%ADJOB%EC%9D%B4%EC%95%BC%EA%B8%B0_.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실전경영의 이해]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO002+2021_12/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SDL+SDL002+2021-2+type@asset+block@%EA%B7%B8%EB%A6%BC188.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자무역론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL003+2021-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL003+2021-2/about</guid>
-            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                민경기
-                </span>
-                <span class="kr01_school">Seoul Digital University Foundation</span>
-                </div>
-                <div><time>2021/12/14</time>
-                
-                ~ <time>2022/02/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SDL+SDL003+2021-2+type@asset+block@%EA%B7%B8%EB%A6%BC12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보관하역론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL005+2021-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL005+2021-2/about</guid>
-            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이기희
-                </span>
-                <span class="kr01_school">Seoul Digital University Foundation</span>
-                </div>
-                <div><time>2021/12/14</time>
-                
-                ~ <time>2022/02/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SDL+SDL005+2021-2+type@asset+block@%EA%B7%B8%EB%A6%BC166.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
