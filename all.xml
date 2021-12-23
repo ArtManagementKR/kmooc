@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 15:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 16:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[사회적 경제와 소셜벤처 창업 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 15:12:28 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 16:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종근
@@ -29,7 +29,7 @@
             <title><![CDATA[빅데이터와 융복합 창업 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 23 Dec 2021 15:12:28 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 16:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종근
