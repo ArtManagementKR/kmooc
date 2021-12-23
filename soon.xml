@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 02:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 02:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,24 +168,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ANU+ANU2021+2021_T01+type@asset+block@_%EC%95%88%EB%8F%99%EB%8C%80__%EC%8B%A0%ED%99%94%EC%99%80%ED%8F%AD%EB%A0%A5_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[액티브시니어를 위한 힐링 요가]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU06+DDU06/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU06+DDU06/about</guid>
-            <pubDate>Tue, 21 Dec 2021 10:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                곽애영
-                </span>
-                <span class="kr01_school">Dongduk Women's University</span>
-                </div>
-                <div><time>2021/12/23</time>
-                
-                ~ <time>2022/02/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DongdukK+DDU06+DDU06+type@asset+block@%ED%9E%90%EB%A7%81%EC%9A%94%EA%B0%80%EC%8D%B8%EB%84%A4%EC%9D%BC_342190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

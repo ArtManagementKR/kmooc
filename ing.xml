@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 02:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 02:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[액티브시니어를 위한 힐링 요가]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 23 Dec 2021 02:00:18 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 02:39:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 곽애영
@@ -29,7 +29,7 @@
             <title><![CDATA[무역의 세계사! 무역의 시작과 21세기 무역을 보다]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 23 Dec 2021 02:00:18 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 02:39:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정준
@@ -78,6 +78,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEO01+2021_12+type@asset+block@%EC%B0%B8%EA%B3%A0%EC%9A%A906.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알고리즘]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOSW01+2021_12/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEOSW01+2021_12/about</guid>
+            <pubDate>Thu, 23 Dec 2021 02:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                선복근
+                </span>
+                <span class="kr01_school">HOSEO University</span>
+                </div>
+                <div><time>2021/12/22</time>
+                
+                ~ <time>2022/03/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HOSEO+HOSEOSW01+2021_12+type@asset+block@%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7_%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%90%E1%85%B3%E1%86%AF_fin_1_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생물다양성과 생물자원]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+CORE_KNUk03+2021_Q2+type@asset+block@%EC%A1%B0%EC%84%A0%EC%9D%80_%EB%AC%B8%EB%AA%85%EA%B5%AD%EC%9D%B8%EA%B0%80_%EC%8D%B8%EB%82%B4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무역상무론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SDL+SDL002+2021-2/about</guid>
-            <pubDate>Tue, 14 Dec 2021 17:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안병수
-                </span>
-                <span class="kr01_school">Seoul Digital University Foundation</span>
-                </div>
-                <div><time>2021/12/14</time>
-                
-                ~ <time>2022/02/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SDL+SDL002+2021-2+type@asset+block@%EA%B7%B8%EB%A6%BC188.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
