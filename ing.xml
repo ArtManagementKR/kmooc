@@ -4,14 +4,50 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 08:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 09:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[액티브시니어를 위한 힐링 요가]]></title>
+            <title><![CDATA[사회적 경제와 소셜벤처 창업]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 23 Dec 2021 08:14:54 GMT</pubDate>
+            <pubDate>Thu, 23 Dec 2021 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최종근
+                </span>
+                <span class="kr01_school">Hannam University</span>
+                </div>
+                <div><time>2021/12/23</time>
+                
+                ~ <time>2022/02/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HNU+HNU002+2021-2+type@asset+block@01_so.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빅데이터와 융복합 창업]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 23 Dec 2021 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최종근
+                </span>
+                <span class="kr01_school">Hannam University</span>
+                </div>
+                <div><time>2021/12/23</time>
+                
+                ~ <time>2022/02/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HNU+HNU003+2021-1+type@asset+block@big.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액티브시니어를 위한 힐링 요가]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU06+DDU06/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DongdukK+DDU06+DDU06/about</guid>
+            <pubDate>Thu, 23 Dec 2021 09:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 곽애영
@@ -27,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[무역의 세계사! 무역의 시작과 21세기 무역을 보다]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 23 Dec 2021 08:14:54 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MOTIEtongsang+TS001+2021-1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MOTIEtongsang+TS001+2021-1/about</guid>
+            <pubDate>Thu, 23 Dec 2021 09:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정준
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DGUk+DGU_021k+DGU_021k_2021+type@asset+block@002_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보행훈련 : 어떻게 다시 걸을 수 있는가]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+KMOOC_KNU01+2021_T2/about</guid>
-            <pubDate>Wed, 15 Dec 2021 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이양수 교수
-                </span>
-                <span class="kr01_school">Kyungpook National University</span>
-                </div>
-                <div><time>2021/12/15</time>
-                
-                ~ <time>2022/02/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+KMOOC_KNU01+2021_T2+type@asset+block@%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B3%B4%ED%96%89%ED%9B%88%EB%A0%A8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선은 문명국인가]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KNUk+CORE_KNUk03+2021_Q2/about</guid>
-            <pubDate>Wed, 15 Dec 2021 17:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정재훈
-                </span>
-                <span class="kr01_school">Kyungpook National University</span>
-                </div>
-                <div><time>2021/12/15</time>
-                
-                ~ <time>2022/02/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KNUk+CORE_KNUk03+2021_Q2+type@asset+block@%EC%A1%B0%EC%84%A0%EC%9D%80_%EB%AC%B8%EB%AA%85%EA%B5%AD%EC%9D%B8%EA%B0%80_%EC%8D%B8%EB%82%B4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
