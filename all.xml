@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 01:59:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 02:36:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[문화다양성 전문인력 양성 기본과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 24 Dec 2021 00:40:10 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 02:36:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권숙인 and 8 others
@@ -29,7 +29,7 @@
             <title><![CDATA[신화와 폭력 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 24 Dec 2021 00:40:10 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 02:36:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신호림
@@ -47,7 +47,7 @@
             <title><![CDATA[신비한 모래놀이치료의 세계 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 24 Dec 2021 00:40:10 GMT</pubDate>
+            <pubDate>Fri, 24 Dec 2021 02:36:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한미현
@@ -314,24 +314,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU13+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%99%80-%EC%A7%81%EC%97%85%EC%A7%84%EB%A1%9C%EC%83%81%EB%8B%B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[발달과 발달장애의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</guid>
-            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                남현숙
-                </span>
-                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
-                </div>
-                <div><time>2021/12/20</time>
-                
-                ~ <time>2022/02/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU11+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8_%EB%B0%9C%EB%8B%AC%EA%B3%BC-%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%98-%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[발달장애인 직업재활 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU14+2021_T1/about</guid>
@@ -348,6 +330,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU14+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B3%A0%EA%B8%89_%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%B8-%EC%A7%81%EC%97%85%EC%9E%AC%ED%99%9C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발달과 발달장애의 이해 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BDUk+BDU11+2021_T1/about</guid>
+            <pubDate>Mon, 20 Dec 2021 09:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                남현숙
+                </span>
+                <span class="kr01_school">BUSAN DIGITAL UNIVERSITY</span>
+                </div>
+                <div><time>2021/12/20</time>
+                
+                ~ <time>2022/02/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BDUk+BDU11+2021_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8_%EB%B0%9C%EB%8B%AC%EA%B3%BC-%EB%B0%9C%EB%8B%AC%EC%9E%A5%EC%95%A0%EC%9D%98-%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온라인 참여형 심리백신 (K-MOOC ─ 진행중)]]></title>
