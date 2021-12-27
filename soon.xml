@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 08:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 10:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,6 +114,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG14k+2021_T2_1+type@asset+block@2021-%EB%8F%99%EA%B3%84_%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%98%81%EC%96%B4%EC%9D%98_%EC%9E%A5%EB%B2%BD%EB%84%98%EA%B8%B01.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시와 언어로 만나는 러시아]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:USW+USW06+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:USW+USW06+2021_T1/about</guid>
+            <pubDate>Mon, 27 Dec 2021 10:13:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이혜승
+                </span>
+                <span class="kr01_school">The University of Suwon</span>
+                </div>
+                <div><time>2022/01/03</time>
+                
+                ~ <time>2022/02/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:USW+USW06+2021_T1+type@asset+block@%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%AF%B8%EC%A7%802.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대중음악과 청년문화]]></title>
