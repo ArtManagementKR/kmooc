@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,6 +60,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ChungbukK+Chungbuk_08+2021_14+type@asset+block@%EB%9D%BC%ED%8B%B4%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[알기 쉬운 기업 살림살이 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChungbukK+Chungbuk_09+2021_15/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChungbukK+Chungbuk_09+2021_15/about</guid>
+            <pubDate>Tue, 28 Dec 2021 02:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                배기수
+                </span>
+                <span class="kr01_school">Chungbuk National University</span>
+                </div>
+                <div><time>2021/12/27</time>
+                
+                ~ <time>2022/04/10</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChungbukK+Chungbuk_09+2021_15+type@asset+block@%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디자인 씽킹을 넘어 가치 디자인으로 (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DongdukK+DDU06+DDU06+type@asset+block@%ED%9E%90%EB%A7%81%EC%9A%94%EA%B0%80%EC%8D%B8%EB%84%A4%EC%9D%BC_342190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무역의 세계사! 무역의 시작과 21세기 무역을 보다 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MOTIEtongsang+TS001+2021-1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MOTIEtongsang+TS001+2021-1/about</guid>
-            <pubDate>Thu, 23 Dec 2021 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박정준
-                </span>
-                <span class="kr01_school">Ministry of Trade, Industry and Energy</span>
-                </div>
-                <div><time>2021/12/23</time>
-                
-                ~ <time>2022/01/21</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MOTIEtongsang+TS001+2021-1+type@asset+block@%EB%AC%B4%EC%97%ADJOB%EC%9D%B4%EC%95%BC%EA%B8%B0_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고객발굴기반 비즈니스 모델 수립 (K-MOOC ─ 개강예정)]]></title>
