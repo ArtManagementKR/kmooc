@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 08:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 09:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[마학·마술학 기초과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KRA+KRA01+2022_1/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김병선 and 1 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[AWS와 텐서플로우 기반 IoT 빅데이터 실습 및 활용 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_09+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_09+2021_T2_2/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종혁 and 1 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[IoT 프로그래밍 및 실습 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_06+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_06+2021_T2_2/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김미혜 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[IoT 기술의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_05+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_05+2021_T2_2/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 변태영 and 2 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[파이썬 기반 빅데이터 처리 및 분석 기술 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_08+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_08+2021_T2_2/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 길준민 and 1 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[빅데이터 분석 기술의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 01 Jan 2022 08:14:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_07+2021_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCUk+FD_DCU_07+2021_T2_2/about</guid>
+            <pubDate>Sat, 01 Jan 2022 09:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김대학
