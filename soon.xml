@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 18:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 19:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강한 삶: 건강한 몸과 병든 몸]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU13K+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU13K+2021_1/about</guid>
+            <pubDate>Sun, 02 Jan 2022 19:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이무열
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2022/01/11</time>
+                
+                ~ <time>2022/03/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고객발굴기반 비즈니스 모델 수립]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KMUniv+KMUniv101+2021_T4/about</link>
