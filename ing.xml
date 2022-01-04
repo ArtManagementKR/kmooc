@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 08:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 09:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[학문적 글쓰기를 위한 한국어 문법]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 04 Jan 2022 07:12:05 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG18k+2021_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG18k+2021_T2_1/about</guid>
+            <pubDate>Tue, 04 Jan 2022 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오경숙
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[제한된 윤리성: 원인과 처방]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 04 Jan 2022 07:12:05 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG17k+2021_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG17k+2021_T2_1/about</guid>
+            <pubDate>Tue, 04 Jan 2022 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 민재형
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[대학생을 위한 영어의 장벽 넘기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 04 Jan 2022 07:12:05 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG13k+2021_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG13k+2021_T2_1/about</guid>
+            <pubDate>Tue, 04 Jan 2022 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 채서영 and 2 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[직장인을 위한 영어의 장벽 넘기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 04 Jan 2022 07:12:05 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG14k+2021_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SOGANGk+SOGANG14k+2021_T2_1/about</guid>
+            <pubDate>Tue, 04 Jan 2022 09:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 채서영 and 2 others
