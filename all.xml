@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 08:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[생활 속으로 들어온 미래, Robot (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI14+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI14+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[비즈니스를 이해하기 쉽게 전달한다! 보고의 달인 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI11+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI11+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[스피치의 달인! 파워스피치 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI08+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI08+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[질문엔 이렇게 대답하라! 대답의 달인 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI10+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI10+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[처음부터 대단한 생각은 없다! 생각수업 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI12+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI12+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA['일잘러’의 효율적인 업무 방법 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 05 Jan 2022 08:14:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI07+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI07+2021_1/about</guid>
+            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 SERICEO연구진
