@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 03:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 04:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:AYUk+AYUK_IP_0+2021_T2_1+type@asset+block@%EC%95%88%EC%96%91%EB%8C%80_%EB%B6%81%ED%95%9C%EC%9D%98_%EB%AF%BC%EC%A1%B1%EC%9C%A0%EC%82%B0_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영화로 이해하는 불안과 공포]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU15K+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU15K+2021_1/about</guid>
+            <pubDate>Fri, 07 Jan 2022 04:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤부희
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2022/01/10</time>
+                
+                ~ <time>2022/03/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU15K+2021_1+type@asset+block@KakaoTalk_20211126_170027379.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HTML에서 웹앱까지]]></title>
