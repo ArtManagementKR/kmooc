@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 17:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 18:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -437,7 +437,7 @@
                 ~ <time>2022/03/07</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU13K+2021_1+type@asset+block@images_course_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5분 안에 톺아보는 ‘북한의 민족유산(문화재)’ (K-MOOC ─ 개강예정)]]></title>
@@ -528,24 +528,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KMUniv+KMUniv101+2021_T4+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패턴으로 정복하는 중급중국어 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS07+2021_C2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS07+2021_C2/about</guid>
-            <pubDate>Mon, 03 Jan 2022 02:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이보영
-                </span>
-                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/01/10</time>
-                
-                ~ <time>2022/02/15</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS07+2021_C2+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
