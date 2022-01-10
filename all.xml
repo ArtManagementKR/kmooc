@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 10:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 11:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[5분 안에 톺아보는 ‘북한의 민족유산(문화재)’ (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 10 Jan 2022 09:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:AYUk+AYUK_IP_0+2021_T2_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AYUk+AYUK_IP_0+2021_T2_1/about</guid>
+            <pubDate>Mon, 10 Jan 2022 11:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장용철
