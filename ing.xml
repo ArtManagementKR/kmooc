@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 00:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[일반인을 위한 물리 코딩]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 12 Jan 2022 00:42:31 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송오영
@@ -24,6 +24,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SejonguniversityK+SJMOOC09K+2021_03SJ9_R3+type@asset+block@2021-3_%EC%98%88%EB%B9%84%EB%8C%80%ED%95%99___%EC%8D%B8%EB%84%A4%EC%9D%BC__%EC%9D%BC%EB%B0%98%EC%9D%B8%EC%9D%84_%EC%9C%84%ED%95%9C_%EB%AC%BC%EB%A6%AC_%EC%BD%94%EB%94%A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건강한 삶: 건강한 몸과 병든 몸]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU13K+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU13K+2021_1/about</guid>
+            <pubDate>Wed, 12 Jan 2022 03:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이무열
+                </span>
+                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
+                </div>
+                <div><time>2022/01/11</time>
+                
+                ~ <time>2022/03/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU13K+2021_1+type@asset+block@%EC%A4%91%EC%95%99%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EA%B1%B4%EA%B0%95%ED%95%9C%EC%82%B6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[도시경제]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:MULTICAMPUS+MULTI11+2021_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[스피치의 달인! 파워스피치]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI08+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MULTICAMPUS+MULTI08+2021_1/about</guid>
-            <pubDate>Wed, 05 Jan 2022 09:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                SERICEO연구진
-                </span>
-                <span class="kr01_school">MULTICAMPUS</span>
-                </div>
-                <div><time>2022/01/05</time>
-                
-                ~ <time>2023/01/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MULTICAMPUS+MULTI08+2021_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
