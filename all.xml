@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[일반인을 위한 물리 코딩 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 12 Jan 2022 07:12:21 GMT</pubDate>
+            <pubDate>Wed, 12 Jan 2022 08:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송오영
