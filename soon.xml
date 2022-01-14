@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_DU+MATCHUP_DU04+2022_T1+type@asset+block@%ED%95%AD%EA%B3%B5%EB%B2%95%EA%B7%9C%EC%99%80_%EC%97%AD%ED%95%99.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_1/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김은미 and 4 others
+                </span>
+                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
+                </div>
+                <div><time>2022/01/18</time>
+                
+                ~ <time>2022/03/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA02+2022_1+type@asset+block@2022_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2022_1/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장현식 and 5 others
+                </span>
+                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
+                </div>
+                <div><time>2022/01/18</time>
+                
+                ~ <time>2022/03/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA01+2022_1+type@asset+block@2022_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금융공학을 위한 인공지능]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</guid>
@@ -170,6 +206,24 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_17+2021_T2+type@asset+block@python_thumb.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</guid>
+            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최정기 and 1 others
+                </span>
+                <span class="kr01_school">Chonnam National University</span>
+                </div>
+                <div><time>2022/01/17</time>
+                
+                ~ <time>2022/05/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_19+2021_T2+type@asset+block@thumb_demo_4.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</guid>
@@ -188,22 +242,76 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2021_T2+type@asset+block@%EB%AF%BC%EC%A3%BC3_thumb.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-입문편(한국수어 중급회화)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                최정기 and 1 others
+                최영주
                 </span>
-                <span class="kr01_school">Chonnam National University</span>
+                <span class="kr01_school">Chosun University</span>
                 </div>
                 <div><time>2022/01/17</time>
                 
-                ~ <time>2022/05/01</time>
+                ~ <time>2022/03/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_19+2021_T2+type@asset+block@thumb_demo_4.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun14K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8%ED%8E%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-활용편(한국수어 활용)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2022/01/17</time>
+                
+                ~ <time>2022/03/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-기초편(한국수어 기초회화)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2022/01/17</time>
+                
+                ~ <time>2022/03/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun13K+2021_T2+type@asset+block@%EC%88%98%EC%96%B4_%EA%B8%B0%EC%B4%88%ED%8E%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)-]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</guid>
+            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최영주
+                </span>
+                <span class="kr01_school">Chosun University</span>
+                </div>
+                <div><time>2022/01/17</time>
+                
+                ~ <time>2022/03/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun16K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%88%98%EC%96%B4_%EA%B3%A0%EA%B8%89%ED%91%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[행복한 가족 만들기 "똑똑한 엄마들의 착각"]]></title>
