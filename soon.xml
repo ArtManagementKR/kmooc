@@ -4,9 +4,81 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 03:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 04:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기초 인도네시아어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이주영
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/03/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_11+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초 터키어 여행 회화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_10+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_10+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최선아
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/03/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_10+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초 헝가리어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유진일
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/03/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_13+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초 우즈베크어 생활회화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이지은
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/03/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_12+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드론 FC와 프로그램tool을 이용한 드론 코딩기초 및 고급 응용]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:MA_DU+MATCHUP_DU01+2022_T1/about</link>
@@ -168,204 +240,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA01+2022_1+type@asset+block@2022_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융공학을 위한 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                허정규
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/05/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_16+2021_T2+type@asset+block@thumb_ai3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능을 위한 파이썬 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경백
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/05/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_17+2021_T2+type@asset+block@python_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/05/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_19+2021_T2+type@asset+block@thumb_demo_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 00:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최정기 and 1 others
-                </span>
-                <span class="kr01_school">Chonnam National University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/05/01</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JNUk+JNUk_18+2021_T2+type@asset+block@%EB%AF%BC%EC%A3%BC3_thumb.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리부팅 인간 중심 과학]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun11K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun11K+2021_T2/about</guid>
-            <pubDate>Sat, 15 Jan 2022 02:02:09 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박현주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/04/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun11K+2021_T2+type@asset+block@2021_%EB%A6%AC%EB%B6%80%ED%8C%85.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-입문편(한국수어 중급회화)-]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun14K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8%ED%8E%B8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-활용편(한국수어 활용)-]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-기초편(한국수어 기초회화)-]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun13K+2021_T2+type@asset+block@%EC%88%98%EC%96%B4_%EA%B8%B0%EC%B4%88%ED%8E%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)-]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</guid>
-            <pubDate>Fri, 14 Jan 2022 09:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun16K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%88%98%EC%96%B4_%EA%B3%A0%EA%B8%89%ED%91%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[행복한 가족 만들기 "똑똑한 엄마들의 착각"]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DCU+DCU01+2021_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DCU+DCU01+2021_1/about</guid>
-            <pubDate>Thu, 13 Jan 2022 19:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                송유미
-                </span>
-                <span class="kr01_school">DAEGU CYBER UNIVERSITY</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DCU+DCU01+2021_1+type@asset+block@title.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[실용아트 메이크업]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk16k+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk16k+2021_T2/about</guid>
-            <pubDate>Sun, 16 Jan 2022 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김경옥
-                </span>
-                <span class="kr01_school">Daegu Haany University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/02/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DHUk+DHUk16k+2021_T2+type@asset+block@%EB%8C%80%EA%B5%AC%ED%95%9C%EC%9D%98%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
