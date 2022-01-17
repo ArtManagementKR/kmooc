@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[금융공학을 위한 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_16+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 허정규
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능을 위한 파이썬 기초]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_17+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경백
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅳ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_19+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 민주주의와 민주화 운동Ⅲ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:JNUk+JNUk_18+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최정기 and 1 others
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[리부팅 인간 중심 과학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun11K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun11K+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박현주
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-입문편(한국수어 중급회화)-]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun14K+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최영주
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-활용편(한국수어 활용)-]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최영주
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-기초편(한국수어 기초회화)-]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최영주
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)-]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최영주
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[지구과학과 환경기술]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2021_T1/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황동수 and 4 others
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[양자물리와 양자컴퓨팅 기초]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS201+2021_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+PHYS201+2021_T1/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤건수
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[행복한 가족 만들기 "똑똑한 엄마들의 착각"]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DCU+DCU01+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DCU+DCU01+2021_1/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 송유미
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[스킨케어, 한의학과의 만남]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk13k+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk13k+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황보민 and 5 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[실용아트 메이크업]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk16k+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk16k+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경옥
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[향기 치유]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 17 Jan 2022 08:15:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk14k+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk14k+2021_T2/about</guid>
+            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박찬익 and 2 others
