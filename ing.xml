@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[삶을 버티게 하는 가치들]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 04:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이국환
@@ -29,7 +29,7 @@
             <title><![CDATA[문학예술과 광기]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 04:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 함정임
@@ -44,10 +44,28 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAU01k+2022_T1+type@asset+block@20211008_095418-min.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인문고전 마르크스의 <자본>을 읽다]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Thu, 20 Jan 2022 04:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                강신준
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/01/20</time>
+                
+                ~ <time>2022/02/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAUk3k+2022_T1+type@asset+block@20211008_095212-min.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[고전과 현실경영]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 04:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용운
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun14K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98__%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%9E%85%EB%AC%B8%ED%8E%B8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-활용편(한국수어 활용)-]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun15K+2021_T2/about</guid>
-            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
