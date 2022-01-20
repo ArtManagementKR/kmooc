@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 00:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 02:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[삶을 버티게 하는 가치들 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이국환
@@ -29,7 +29,7 @@
             <title><![CDATA[문학예술과 광기 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 함정임
@@ -47,7 +47,7 @@
             <title><![CDATA[고전과 현실경영 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <pubDate>Thu, 20 Jan 2022 02:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용운
