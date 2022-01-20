@@ -4,9 +4,63 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 00:48:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶을 버티게 하는 가치들 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이국환
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/01/20</time>
+                
+                ~ <time>2022/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK05+2022_T1+type@asset+block@20211008_094923-min.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문학예술과 광기 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                함정임
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/01/20</time>
+                
+                ~ <time>2022/02/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAU01k+2022_T1+type@asset+block@20211008_095418-min.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고전과 현실경영 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Thu, 20 Jan 2022 00:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김용운
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/01/20</time>
+                
+                ~ <time>2022/02/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAU02k+2022_T1+type@asset+block@20211008_094333-min.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체육학개론 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KNSU+KNSU001+2021_T2/about</link>
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun15K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%9C%EC%9A%A9%ED%8E%B8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-기초편(한국수어 기초회화)- (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun13K+2021_T2/about</guid>
-            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun13K+2021_T2+type@asset+block@%EC%88%98%EC%96%B4_%EA%B8%B0%EC%B4%88%ED%8E%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[손생님! 한국수어를 부탁해요-고급편(한국 수어의 문법)- (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ChosunK+Chosun16K+2021_T2/about</guid>
-            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최영주
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/03/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun16K+2021_T2+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%88%98%EC%96%B4_%EA%B3%A0%EA%B8%89%ED%91%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지구과학과 환경기술 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2021_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:POSTECHk+EVSE101+2021_T1/about</guid>
-            <pubDate>Mon, 17 Jan 2022 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                황동수 and 4 others
-                </span>
-                <span class="kr01_school">POHANG UNIVERSITY OF SCIENCE AND TECHNOLOGY</span>
-                </div>
-                <div><time>2022/01/17</time>
-                
-                ~ <time>2022/02/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:POSTECHk+EVSE101+2021_T1+type@asset+block@%EC%A7%80%EA%B5%AC%EA%B3%BC%ED%95%99%EA%B3%BC_%ED%99%98%EA%B2%BD%EA%B8%B0%EC%88%A0_Thumnail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4차산업에서 재료와 표준 (K-MOOC ─ 개강예정)]]></title>
