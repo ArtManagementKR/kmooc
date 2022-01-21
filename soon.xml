@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 08:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,6 +188,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-06+2021-T1+type@asset+block@01_01.mp4_20211105_101512.072__1___1_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모두에게 필요한 공중보건(Public health connects us all)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HonamUniv+HCTL03+2021_ph1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HonamUniv+HCTL03+2021_ph1/about</guid>
+            <pubDate>Fri, 21 Jan 2022 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장윤경 and 2 others
+                </span>
+                <span class="kr01_school">HonamUniv</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/04/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HonamUniv+HCTL03+2021_ph1+type@asset+block@%ED%98%B8%EB%82%A8%EB%8C%80_%EA%B3%B5%EC%A4%91%EB%B3%B4%EA%B1%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[수학으로 푸는 블록체인(Blockchain solved with mathematics)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HonamUniv+HCTL02+2021_bc1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HonamUniv+HCTL02+2021_bc1/about</guid>
+            <pubDate>Fri, 21 Jan 2022 09:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                백란 and 1 others
+                </span>
+                <span class="kr01_school">HonamUniv</span>
+                </div>
+                <div><time>2022/01/24</time>
+                
+                ~ <time>2022/04/09</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HonamUniv+HCTL02+2021_bc1+type@asset+block@%ED%98%B8%EB%82%A8%EB%8C%80_%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[실사례를 통한 머신러닝 알고리즘 구현 실습]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC22K+2021_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC22K+2021_T2/about</guid>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_10+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기초 헝가리어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2021_T2/about</guid>
-            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유진일
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/01/24</time>
-                
-                ~ <time>2022/03/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_13+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기초 우즈베크어 생활회화]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2021_T2/about</guid>
-            <pubDate>Mon, 17 Jan 2022 04:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지은
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/01/24</time>
-                
-                ~ <time>2022/03/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_12+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
