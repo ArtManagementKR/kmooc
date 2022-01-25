@@ -4,9 +4,27 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 00:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여행과 지리]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20005K+2022_S14/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20005K+2022_S14/about</guid>
+            <pubDate>Tue, 25 Jan 2022 02:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이영민
+                </span>
+                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/02</time>
+                
+                ~ <time>2022/06/14</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[증권투자이론 기초]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T1/about</link>
@@ -240,6 +258,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK004+2021_T2_01+type@asset+block@_%EB%B0%B1%EC%84%9D%EB%8C%80_%EB%86%80%EC%9D%B4%EC%98%88%EC%88%A0%EA%B8%B0%EB%B0%98%EC%95%84%EB%8F%99%EC%83%81%EB%8B%B4%EC%9D%98%ED%8A%B9%EC%84%B1%EA%B3%BC%EA%B3%BC%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[21세기 미학의 새로운 발견]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SHU+SHU100+2022_R1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SHU+SHU100+2022_R1/about</guid>
+            <pubDate>Tue, 25 Jan 2022 02:01:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이강일
+                </span>
+                <span class="kr01_school">SEHAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/01/26</time>
+                
+                ~ <time>2022/02/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SHU+SHU100+2022_R1+type@asset+block@C-_Users_parts_Desktop_Untitled-2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
