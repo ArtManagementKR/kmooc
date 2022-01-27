@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_13+2021_T2+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여행과 지리 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20005K+2022_S14/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW20005K+2022_S14/about</guid>
-            <pubDate>Tue, 25 Jan 2022 02:01:22 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이영민
-                </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/02</time>
-                
-                ~ <time>2022/06/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW20005K+2022_S14+type@asset+block@%EC%97%AC%ED%96%89_2022s.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[증권투자이론 기초 (K-MOOC ─ 개강예정)]]></title>
