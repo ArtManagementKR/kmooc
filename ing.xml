@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 01:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 02:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,7 +167,7 @@
                 ~ <time>2022/02/21</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC22K+2021_T2+type@asset+block@%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC22K+2021_T2+type@asset+block@04_%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A5%BC_%ED%86%B5%ED%95%9C_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EA%B5%AC%ED%98%84_%EC%8B%A4%EC%8A%B5_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조선 문인들이 사랑한 나의 집]]></title>
@@ -185,7 +185,7 @@
                 ~ <time>2022/03/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2021_T2+type@asset+block@%EC%A1%B0%EC%84%A0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC18K+2021_T2+type@asset+block@%EC%A1%B0%EC%84%A0_%EB%AC%B8%EC%9D%B8%EB%93%A4%EC%9D%B4_%EC%82%AC%EB%9E%91%ED%95%9C_%EB%82%98%EC%9D%98_%EC%A7%91_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SW&AI; 전공 진입을 위한 수학]]></title>
@@ -203,7 +203,7 @@
                 ~ <time>2022/02/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC21K+2021_T2+type@asset+block@%EC%88%98%ED%95%99_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC21K+2021_T2+type@asset+block@03_SW_AI_%EC%A0%84%EA%B3%B5_%EC%A7%84%EC%9E%85%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%88%98%ED%95%99_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인문·사회계열 전공생을 위한 Python 입문]]></title>
@@ -221,7 +221,7 @@
                 ~ <time>2022/02/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC19K+2021_T2+type@asset+block@%EC%BA%A1%EC%B2%98.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC19K+2021_T2+type@asset+block@01_%EC%9D%B8%EB%AC%B8_%EC%82%AC%ED%9A%8C%EA%B3%84%EC%97%B4_%EC%A0%84%EA%B3%B5%EC%83%9D%EC%9D%84_%EC%9C%84%ED%95%9C_Python_%EC%9E%85%EB%AC%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실습으로 배우는 머신러닝]]></title>
@@ -239,7 +239,7 @@
                 ~ <time>2022/02/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2021_T2+type@asset+block@%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC20K+2021_T2+type@asset+block@02_%EC%8B%A4%EC%8A%B5%EC%9C%BC%EB%A1%9C_%EB%B0%B0%EC%9A%B0%EB%8A%94_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미래를 위한 교수법 ② : 학습자 중심 비대면 교육]]></title>
