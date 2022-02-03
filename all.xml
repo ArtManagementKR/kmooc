@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[남북협력개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 03 Feb 2022 01:52:03 GMT</pubDate>
+            <pubDate>Thu, 03 Feb 2022 02:23:39 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박상철 and 11 others
@@ -710,22 +710,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk08+2022_T1+type@asset+block@%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%9D%B4%EB%A1%A0_%EA%B8%B0%EC%B4%88_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%951.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4차산업에서 재료와 표준 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:PNUk+MS_C01+2021_N1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+MS_C01+2021_N1/about</guid>
-            <pubDate>Mon, 17 Jan 2022 14:12:14 GMT</pubDate>
+            <title><![CDATA[자율주행의 기초 및 자율주행 플랫폼을 활용한 시스템 구축 방법 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2021_KATRI01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:TS_KATRI+KATRI01+2021_KATRI01/about</guid>
+            <pubDate>Thu, 03 Feb 2022 02:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이희수 교수
+                나재원 and 3 others
                 </span>
-                <span class="kr01_school">Pusan National University</span>
+                <span class="kr01_school">TS_KATRI</span>
                 </div>
-                <div><time>2022/02/07</time>
+                <div><time>2022/02/14</time>
                 
-                ~ <time>2022/04/08</time>
+                ~ <time>2022/04/01</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+MS_C01+2021_N1+type@asset+block@%EC%9E%AC%EB%A3%8C%EC%99%80-%ED%91%9C%EC%A4%80-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:TS_KATRI+KATRI01+2021_KATRI01+type@asset+block@_%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%EA%B7%B8%EB%A6%BC2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
