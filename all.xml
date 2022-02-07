@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오종훈
@@ -29,7 +29,7 @@
             <title><![CDATA[인공지능 기반 소셜벤처의 비즈니스 모델 개발 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최병호
@@ -47,7 +47,7 @@
             <title><![CDATA[혁신 경영을 위한 다양성 전략 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종구
@@ -65,7 +65,7 @@
             <title><![CDATA[리스크 관리의 이해 및 응용 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임종권
@@ -83,7 +83,7 @@
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -101,7 +101,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 04:14:29 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -150,6 +150,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KGU+KGUpo01+2022_T1+type@asset+block@%EC%A0%9C%EB%AA%A9%EC%97%86%EC%9D%8C_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국독립운동의 역사 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:IHK+IHK01+2021-01-1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:IHK+IHK01+2021-01-1/about</guid>
+            <pubDate>Mon, 07 Feb 2022 05:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한철호 외
+                </span>
+                <span class="kr01_school">The Independence Hall of Korea</span>
+                </div>
+                <div><time>2022/02/01</time>
+                
+                ~ <time>2022/04/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:IHK+IHK01+2021-01-1+type@asset+block@kmooc_img_420240.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[독립군의 요람 '신흥무관학교' (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-11+2021-T1+type@asset+block@1.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을 바꾸는 빅데이터 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-07+SMKMOOC-07/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SunMoonK+SMKMOOC-07+SMKMOOC-07/about</guid>
-            <pubDate>Fri, 28 Jan 2022 09:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김용우 and 7 others
-                </span>
-                <span class="kr01_school">SUN MOON UNIVERSITY</span>
-                </div>
-                <div><time>2022/01/28</time>
-                
-                ~ <time>2022/04/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SunMoonK+SMKMOOC-07+SMKMOOC-07+type@asset+block@01_01.mp4_20220103_095633.282.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Identity, Agency, Equality and Security in the Age of AI (K-MOOC ─ 개강예정)]]></title>
