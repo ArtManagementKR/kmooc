@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[비전공자를 위한 AI 딥러닝(Deep Learning) (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2021_K1_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KAISTk+COB2021+2021_K1_01/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오종훈
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능 기반 소셜벤처의 비즈니스 모델 개발 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_004+2021_A53/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_004+2021_A53/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최병호
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[혁신 경영을 위한 다양성 전략 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_001+2021_A50/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_001+2021_A50/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종구
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[리스크 관리의 이해 및 응용 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_002+2021_A51/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_002+2021_A51/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임종권
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_01/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 07 Feb 2022 08:14:21 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_01/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_01/about</guid>
+            <pubDate>Mon, 07 Feb 2022 09:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
