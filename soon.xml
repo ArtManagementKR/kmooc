@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:57:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,7 +167,7 @@
                 ~ <time>2022/06/14</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21003K+2022_S17+type@asset+block@%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94%EA%B9%8A%EC%9D%B4%EC%9D%BD%EA%B8%B0_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21003K+2022_S17+type@asset+block@%ED%95%9C%EA%B5%AD%EB%AC%B8%ED%99%94_2022s.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생물다양성과 생물자원]]></title>
@@ -185,7 +185,7 @@
                 ~ <time>2022/06/14</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21002K+2022_S16+type@asset+block@%EC%83%9D%EB%AC%BC%EB%8B%A4%EC%96%91%EC%84%B1_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21002K+2022_S16+type@asset+block@%EC%83%9D%EB%AC%BC_2022s.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[빅데이터의 세계, 원리와 응용]]></title>
@@ -329,7 +329,7 @@
                 ~ <time>2022/04/30</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21004K+2022_S18+type@asset+block@%ED%99%98%EA%B2%BD%EA%B3%BC_%EC%96%B4%EB%A6%B0%EC%9D%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW21004K+2022_S18+type@asset+block@%ED%99%98%EA%B2%BD_2022s.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[증권투자이론 기초]]></title>
