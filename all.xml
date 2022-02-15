@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 02:06:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 03:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,7 +338,7 @@
             <pubDate>Tue, 08 Feb 2022 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이명화 외
+                이명화 외 
                 </span>
                 <span class="kr01_school">The Independence Hall of Korea</span>
                 </div>
