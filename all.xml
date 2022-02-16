@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[의료 인공지능 개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[유전체 정보분석과정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI002+2022_B_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI002+2022_B_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김이준 and 11 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[현장임상의 이해(내과) (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI001+2022_A_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI001+2022_A_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조현
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[보건의료데이터 활용 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[정보의학개론 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_004/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[증권투자이론 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 16 Feb 2022 08:13:57 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T1/about</guid>
+            <pubDate>Wed, 16 Feb 2022 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한덕희
