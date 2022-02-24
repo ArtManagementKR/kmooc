@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 08:14:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2021_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2021_T3/about</guid>
+            <pubDate>Thu, 24 Feb 2022 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김소라 학예사
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[환자 시뮬레이터 체험하기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 24 Feb 2022 08:14:52 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2021_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2021_T3/about</guid>
+            <pubDate>Thu, 24 Feb 2022 09:13:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강자현
