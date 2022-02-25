@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DJHIT+HIT01+2022_H1+type@asset+block@main1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[패션 스튜디오]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T1/about</guid>
+            <pubDate>Fri, 25 Feb 2022 10:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                염미선
+                </span>
+                <span class="kr01_school">SUNGSHIN WOMEN'S UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/09</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SSUk+SSMOOC05K+2022_T1+type@asset+block@0051.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소비자와 시장]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU048_011k+2022_T1+type@asset+block@_500_300__22-1_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98%EA%B8%B0%EC%B4%88.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[데이터 마이닝]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU049_011k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU049_011k+2022_T1/about</guid>
-            <pubDate>Thu, 24 Feb 2022 08:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                강유
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/05/04</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU049_011k+2022_T1+type@asset+block@_500_300__22-1_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
