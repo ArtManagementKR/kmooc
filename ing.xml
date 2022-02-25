@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 11:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 12:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -42,6 +42,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU069.021k+2021_T3+type@asset+block@_500_300__21_%ED%99%98%EC%9E%90%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[융합예술과 문화공간 기획]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC21k+2021_06SJ21/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC21k+2021_06SJ21/about</guid>
+            <pubDate>Fri, 25 Feb 2022 12:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김보름
+                </span>
+                <span class="kr01_school">Sejong University</span>
+                </div>
+                <div><time>2022/02/24</time>
+                
+                ~ <time>2022/02/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SejonguniversityK+SJKMOOC21k+2021_06SJ21+type@asset+block@%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_KakaoTalk_20220216_122043619.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능 콘텐츠 아트 프로듀싱]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC22k+2021_06SJ22/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SejonguniversityK+SJKMOOC22k+2021_06SJ22/about</guid>
+            <pubDate>Fri, 25 Feb 2022 12:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한창완
+                </span>
+                <span class="kr01_school">Sejong University</span>
+                </div>
+                <div><time>2022/02/24</time>
+                
+                ~ <time>2022/02/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SejonguniversityK+SJKMOOC22k+2021_06SJ22+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[현대철학사조: 현대철학의 거장들]]></title>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_52+2022_T1+type@asset+block@%EC%9D%B8%EC%9C%A0%EB%B0%94_%EC%8B%A0%EC%A0%95%EA%B7%BC_-%EC%8D%B8%EB%84%A4%EC%9D%BC1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미적분학 I - 활용을 중심으로]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_EXGB506_01K+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_EXGB506_01K+2022_T1/about</guid>
-            <pubDate>Mon, 21 Feb 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                채영도
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2022/02/21</time>
-                
-                ~ <time>2022/05/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_EXGB506_01K+2022_T1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EB%A6%AC%ED%94%8C%EB%A0%9B-%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80__%EB%AF%B8%EB%B6%84%EC%A0%81%EB%B6%84%ED%95%99_-2%EC%B0%A8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정신 분석으로 읽는 영상과 인간심리]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_53+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_53+2022_T1/about</guid>
-            <pubDate>Mon, 21 Feb 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안상혁
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2022/02/21</time>
-                
-                ~ <time>2022/05/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_53+2022_T1+type@asset+block@%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80_%EC%97%85%EB%A1%9C%EB%93%9C_.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
