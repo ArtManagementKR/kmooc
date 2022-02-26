@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 23:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 00:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21세기 미학의 새로운 발견 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Sat, 26 Feb 2022 00:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이강일
+                </span>
+                <span class="kr01_school">SEHAN UNIVERSITY</span>
+                </div>
+                <div><time>2022/02/26</time>
+                
+                ~ <time>2022/06/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SHU+SHU100+2022_R2+type@asset+block@C-_Users_parts_Desktop_Untitled-2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2021_T3/about</link>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_40+2022_T1+type@asset+block@%EC%B2%A0%ED%85%8C%EC%9C%A0_%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연학 ‧ 예술 ‧ 한의학 ‧ 인공지능 ‧ 정치학과 유학의 만남 : 인접학문에서 유학을 바라보다 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_52+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SKKUk+SKKU_52+2022_T1/about</guid>
-            <pubDate>Mon, 21 Feb 2022 09:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신정근
-                </span>
-                <span class="kr01_school">SUNGKYUNKWAN UNIVERSITY</span>
-                </div>
-                <div><time>2022/02/21</time>
-                
-                ~ <time>2022/05/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SKKUk+SKKU_52+2022_T1+type@asset+block@%EC%9D%B8%EC%9C%A0%EB%B0%94_%EC%8B%A0%EC%A0%95%EA%B7%BC_-%EC%8D%B8%EB%84%A4%EC%9D%BC1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초반응자를 위한 외상처치술 (K-MOOC ─ 개강예정)]]></title>
