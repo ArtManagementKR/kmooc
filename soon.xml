@@ -4,9 +4,81 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 18:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 19:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통증을 물어보는 진료 중국어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS09+2022-1_C4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS09+2022-1_C4/about</guid>
+            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                종혜현
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/03/21</time>
+                
+                ~ <time>2022/07/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS09+2022-1_C4+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[통증을 알아듣는 진료 중국어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS08+2022-1_C3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS08+2022-1_C3/about</guid>
+            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                장린자
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/03/21</time>
+                
+                ~ <time>2022/07/04</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS08+2022-1_C3+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[패턴으로 정복하는 중급중국어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS07+2022-1_C2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS07+2022-1_C2/about</guid>
+            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이보영
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/03/21</time>
+                
+                ~ <time>2022/06/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS07+2022-1_C2+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쉽게 들어가는 중국어 입문]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS06+2022-1_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS06+2022-1_C1/about</guid>
+            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이선희
+                </span>
+                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/03/21</time>
+                
+                ~ <time>2022/05/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS06+2022-1_C1+type@asset+block@main_cufs06.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[최초반응자를 위한 외상처치술]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DJHIT+HIT01+2022_H1/about</link>
@@ -294,78 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU200_105k+2022_T1+type@asset+block@_500_300__22-1_%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[언어와 인간]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+CORE_SNU041_040k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+CORE_SNU041_040k+2022_T1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                남승호
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+CORE_SNU041_040k+2022_T1+type@asset+block@_500_300__22-1_%EC%96%B8%EC%96%B4%EC%99%80%EC%9D%B8%EA%B0%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[상담학 들어가기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU701_429k+2022_T1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김창대
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU701_429k+2022_T1+type@asset+block@21-2_%EC%83%81%EB%8B%B4%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우주와 생명]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU046_101k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU046_101k+2022_T1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김희준
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU046_101k+2022_T1+type@asset+block@_500_300__22-1_%EC%9A%B0%EC%A3%BC%EC%99%80%EC%83%9D%EB%AA%85.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[문학/영화와 인공지능]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2022_S1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU053.019k+2022_S1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최윤영 and 1 others
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/05/11</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU053.019k+2022_S1+type@asset+block@_500_300__22-1_%EB%AC%B8%ED%95%99%EC%98%81%ED%99%94%EC%99%80%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
