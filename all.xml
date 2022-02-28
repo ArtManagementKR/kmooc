@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Contextual and Cultural Communication (CCC) (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha014+2022_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INHAuniversityK+inha014+2022_001/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 Grace Bae
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[다문화사회의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DSUk+ACE_DSU02+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DSUk+ACE_DSU02+2022_T1/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조원탁
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[인간심리의 탐구 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DSUk+ACE_DSU03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DSUk+ACE_DSU03+2022_T1/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권재환 and 1 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[여론조사의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DSUk+ACE.DSU01+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DSUk+ACE.DSU01+2022_T1/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조지현
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[기후변화와 지속가능발전 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+CS_C01+2022_KM009/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+CS_C01+2022_KM009/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이준이
@@ -98,28 +98,10 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+CS_C01+2022_KM009+type@asset+block@2022_01_%EA%B8%B0%ED%9B%84%EB%B3%80%ED%99%94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사회적기업 아름다운 경영이야기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조영복
-                </span>
-                <span class="kr01_school">Pusan National University</span>
-                </div>
-                <div><time>2022/02/28</time>
-                
-                ~ <time>2022/06/05</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+SE_C01+2022_KM002+type@asset+block@2022_01_%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B8%B0%EC%97%85.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기업과 경영 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+BM_C01+2022_KM014/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+BM_C01+2022_KM014/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조영복 and 6 others
@@ -134,10 +116,28 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+BM_C01+2022_KM014+type@asset+block@2022_01_%EA%B8%B0%EC%97%85%EA%B3%BC-%EA%B2%BD%EC%98%81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사회적기업 아름다운 경영이야기 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+SE_C01+2022_KM002/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+SE_C01+2022_KM002/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                조영복
+                </span>
+                <span class="kr01_school">Pusan National University</span>
+                </div>
+                <div><time>2022/02/28</time>
+                
+                ~ <time>2022/06/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PNUk+SE_C01+2022_KM002+type@asset+block@2022_01_%EC%82%AC%ED%9A%8C%EC%A0%81%EA%B8%B0%EC%97%85.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재미있는 글로벌 경제 기행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2022_KM003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+GE_C01+2022_KM003/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영재
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[영재교육과 창의성 계발 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+TC_C01+2022_KM004/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+TC_C01+2022_KM004/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박창언 외
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[한시공감 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM010/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+PE_C01+2022_KM010/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김승룡
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[근현대 중국의지식인들 인간을 묻다 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+IC_C01+2022_KM013/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+IC_C01+2022_KM013/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은상 교수 외
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[딥러닝을 위한 선형대수학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+LD_C01+2022_KM011/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+LD_C01+2022_KM011/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김현민
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[도시와 환경디자인 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+CE_C01+2022_KM007/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+CE_C01+2022_KM007/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김동식
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[한국의 전쟁과 문화 변동 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+KW_C01+2022_KM016/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+KW_C01+2022_KM016/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 차철욱 외
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[4차 산업혁명 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+FR_C01+2022_KM006/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+FR_C01+2022_KM006/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기홍
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[4차산업에서 재료와 표준 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+MS_C01+2022_KM012/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+MS_C01+2022_KM012/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이희수 교수
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[생명의 프린키피아 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+PL_C01+2022_KM_001/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+PL_C01+2022_KM_001/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김희수
@@ -315,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[언어, 세상의 지문 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+LW_C01+2022_KM005/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+LW_C01+2022_KM005/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김종수
@@ -333,9 +333,9 @@
         </item>
         <item>
             <title><![CDATA[응용유체역학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:PNUk+AF_C01+2022_KM008/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PNUk+AF_C01+2022_KM008/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경천
@@ -351,9 +351,9 @@
         </item>
         <item>
             <title><![CDATA[누구나 할 수 있는 AI 머신 러닝 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 28 Feb 2022 08:15:40 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_05+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:InhatcK+inhatcK_05+2022_T1/about</guid>
+            <pubDate>Mon, 28 Feb 2022 09:12:48 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이세훈
