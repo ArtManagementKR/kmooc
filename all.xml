@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[고고학의 세계 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 15:13:43 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 16:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김권구
@@ -29,7 +29,7 @@
             <title><![CDATA[소비자행동의 심리학 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 15:13:43 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 16:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박은아
@@ -47,7 +47,7 @@
             <title><![CDATA[창업과벤처 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 01 Mar 2022 15:13:43 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2022 16:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노성여 and 1 others
@@ -476,6 +476,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HGUk+HKU08+2022_T1+type@asset+block@%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_2020-2%ED%95%99%EA%B8%B0_%EB%B2%95%EB%A5%A0%EA%B0%80%EC%99%80_%EC%A0%95%EC%B9%98_%ED%91%9C%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고대 그리스 신화와 문학세계 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:PTUk+SF_PMOOC02k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PTUk+SF_PMOOC02k+2022_T1/about</guid>
+            <pubDate>Tue, 01 Mar 2022 16:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                유호전
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/03/14</time>
+                
+                ~ <time>2022/05/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC02k+2022_T1+type@asset+block@%EA%B3%A0%EB%8C%80%EA%B7%B8%EB%A6%AC%EC%8A%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 시대의 커뮤니케이션 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:PTUk+SF_PMOOC01k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:PTUk+SF_PMOOC01k+2022_T1/about</guid>
+            <pubDate>Tue, 01 Mar 2022 16:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                 이시화
+                </span>
+                <span class="kr01_school">Pyeongtaek University</span>
+                </div>
+                <div><time>2022/03/14</time>
+                
+                ~ <time>2022/05/21</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC01k+2022_T1+type@asset+block@%EB%94%94%EC%A7%80%ED%84%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[패션 스튜디오 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC05K+2022_T1/about</guid>
@@ -690,42 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+CORE_SNU043_076k+2022_T1+type@asset+block@_500_300__22-1_%EC%A2%85%EA%B5%90%EC%83%81%EC%A7%95%EC%9D%98%EC%9D%B4%ED%95%B4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경제학 들어가기 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_008k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU044_008k+2022_T1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이준구
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU044_008k+2022_T1+type@asset+block@_500_300__22-1_%EA%B2%BD%EC%A0%9C%ED%95%99%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[경제학원론 : 미시경제학 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU200_105k+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU200_105k+2022_T1/about</guid>
-            <pubDate>Tue, 22 Feb 2022 02:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이준구
-                </span>
-                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/08</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU200_105k+2022_T1+type@asset+block@_500_300__22-1_%EA%B2%BD%EC%A0%9C%ED%95%99%EC%9B%90%EB%A1%A0%EB%AF%B8%EC%8B%9C%EA%B2%BD%EC%A0%9C%ED%95%99.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
