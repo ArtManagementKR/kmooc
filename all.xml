@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 09:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 10:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[헌법: 갈등해결의 코드 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC08K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC08K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김연식
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[예술적 얼굴과 감정조절 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC16K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC16K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임상빈
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[현대인의 정신건강 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC17K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC17K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이정윤
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[기본권, 세상과 통하는 法 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC12K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC12K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김연식
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[음악은 왜 치료적인가? (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC07K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강경선
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[SW&AI; 전공 진입을 위한 수학 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 07:12:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC21K+2022_T1/about</guid>
+            <pubDate>Fri, 04 Mar 2022 10:13:41 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심성아
