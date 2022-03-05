@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[내 안의 세상을 만나는 치유여행 -실존과 심리치료의 만남]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 05 Mar 2022 03:12:57 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 04:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한재희
@@ -29,7 +29,7 @@
             <title><![CDATA[성장과발달]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Sat, 05 Mar 2022 03:12:57 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 04:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김태경
@@ -350,13 +350,13 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW100+2022_T1_05+type@asset+block@_%EC%98%81%EC%96%B4_K-MOOC__22_%EC%83%9D%EC%83%9D%ED%95%9C_%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98_%EC%B0%BD%EC%97%85_%EC%8A%A4%ED%86%A0%EB%A6%AC_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사회적 가치와 임팩트투자]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW02+2022_T1_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW02+2022_T1_2/about</guid>
-            <pubDate>Sat, 05 Mar 2022 02:06:01 GMT</pubDate>
+            <title><![CDATA[사회적 가치와 소셜벤처]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW01+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW01+2022_T1_1/about</guid>
+            <pubDate>Sat, 05 Mar 2022 04:15:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                주성수
+                안지훈
                 </span>
                 <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
@@ -365,7 +365,7 @@
                 ~ <time>2022/06/14</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW02+2022_T1_2+type@asset+block@_CID_f_kys708ot7_CID_K-MOOC__22_%EC%8D%B8%EB%84%A4%EC%9D%BC3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW01+2022_T1_1+type@asset+block@_CID_f_kys708oo6_CID_K-MOOC__22_%EC%8D%B8%EB%84%A4%EC%9D%BC2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
