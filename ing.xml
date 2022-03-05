@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 00:51:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 안의 세상을 만나는 치유여행 -실존과 심리치료의 만남]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 05 Mar 2022 00:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한재희
+                </span>
+                <span class="kr01_school">Baekseok University</span>
+                </div>
+                <div><time>2022/03/05</time>
+                
+                ~ <time>2022/06/15</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUK+BUK002+2022_T1_01+type@asset+block@%E1%84%8E%E1%85%B5%E1%84%8B%E1%85%B2%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC_img.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[성장과발달]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Sat, 05 Mar 2022 00:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김태경
+                </span>
+                <span class="kr01_school">DONG-EUI INSTITUTE OF TECHNOLOGY UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/05</time>
+                
+                ~ <time>2022/06/11</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DIT+DIT01+2022_T1+type@asset+block@%EC%84%B1%EC%9E%A5%EA%B3%BC%EB%B0%9C%EB%8B%AC_%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%B9%B4%EB%93%9C_2022-1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[헌법: 갈등해결의 코드]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:SSUk+SSMOOC08K+2022_T1/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW01+2022_T1_1+type@asset+block@_CID_f_kys708oo6_CID_K-MOOC__22_%EC%8D%B8%EB%84%A4%EC%9D%BC2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사회적 가치와 임팩트투자]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW02+2022_T1_2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW02+2022_T1_2/about</guid>
-            <pubDate>Wed, 02 Mar 2022 11:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                주성수
-                </span>
-                <span class="kr01_school">Hanyang Women’s University</span>
-                </div>
-                <div><time>2022/03/02</time>
-                
-                ~ <time>2022/06/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW02+2022_T1_2+type@asset+block@_CID_f_kys708ot7_CID_K-MOOC__22_%EC%8D%B8%EB%84%A4%EC%9D%BC3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소셜벤처 투어- 창업실무]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW03+2022_T1_3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW03+2022_T1_3/about</guid>
-            <pubDate>Wed, 02 Mar 2022 11:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오태환
-                </span>
-                <span class="kr01_school">Hanyang Women’s University</span>
-                </div>
-                <div><time>2022/03/02</time>
-                
-                ~ <time>2022/06/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW03+2022_T1_3+type@asset+block@_CID_f_kys708ox8_CID_K-MOOC__22_%EC%8D%B8%EB%84%A4%EC%9D%BC4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
