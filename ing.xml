@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[엔지니어 정약용 탐구]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김평원 and 1 others
@@ -26,10 +26,28 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU001+2022_L1_1+type@asset+block@2021-2%ED%95%99%EA%B8%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A0%95%EC%95%BD%EC%9A%A9-%ED%83%90%EA%B5%AC-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인공지능 기반 디자인 트렌스포메이션]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                최병호
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/07</time>
+                
+                ~ <time>2022/06/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_art_001+2022_A18+type@asset+block@_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%87%E1%85%A7%E1%86%AB%E1%84%92%E1%85%AA%E1%86%AB_34_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%B5%E1%84%82%E1%85%B3%E1%86%BC_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB_%E1%84%90%E1%85%B3%E1%84%85%E1%85%A6%E1%86%AB%E1%84%89%E1%85%B3%E1%84%91%E1%85%A9%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[실생활에서 만나는 경영의사결정]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김창희 교수 and 3 others
@@ -47,7 +65,7 @@
             <title><![CDATA[사회적경제기업가의 경영전략]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 양준호 교수
@@ -65,7 +83,7 @@
             <title><![CDATA[조선 문인들이 사랑한 나의 집]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강혜선
@@ -83,7 +101,7 @@
             <title><![CDATA[4차 산업혁명과 경영혁신]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심선영
@@ -101,7 +119,7 @@
             <title><![CDATA[설득의 과학]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 소현진
@@ -119,7 +137,7 @@
             <title><![CDATA[역사와 문화 속의 인간]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김길웅
@@ -137,7 +155,7 @@
             <title><![CDATA[의료사고, 법으로 이해하기]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김나경
@@ -155,7 +173,7 @@
             <title><![CDATA[비즈니스를 위한 인공지능]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 심선영
@@ -173,7 +191,7 @@
             <title><![CDATA[한국의 자연지리]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경
@@ -191,7 +209,7 @@
             <title><![CDATA[인문·사회계열 전공생을 위한 Python 입문]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤태진
@@ -209,7 +227,7 @@
             <title><![CDATA[창업의 첫걸음]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안성태
@@ -227,7 +245,7 @@
             <title><![CDATA[알기 쉬운 스타트업 재무]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안성태
@@ -245,7 +263,7 @@
             <title><![CDATA[<삼자경三字經> 인문학 -세 글자로 읽는 중국문화-]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한예원
@@ -263,7 +281,7 @@
             <title><![CDATA[한국근대사, 감춰진 이야기]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박진철
@@ -281,7 +299,7 @@
             <title><![CDATA[일반화학 개념의 핵심]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조승주
@@ -299,7 +317,7 @@
             <title><![CDATA[공동주택 분쟁 이해]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강혁신
@@ -317,7 +335,7 @@
             <title><![CDATA[신뢰성공학]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 곽재복
@@ -335,7 +353,7 @@
             <title><![CDATA[추리소설의 인문학적 탐구]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 06:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장경현
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun08K+2022_1+type@asset+block@20210113_1056292.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[차이나 허스토리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Mar 2022 05:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이영란
-                </span>
-                <span class="kr01_school">Chosun University</span>
-                </div>
-                <div><time>2022/03/07</time>
-                
-                ~ <time>2022/06/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ChosunK+Chosun06K+2022_1+type@asset+block@8%EC%A3%BC_1%EC%B0%A8%EC%8B%9C.00_28_43_06.%EC%8A%A4%ED%8B%B8_002.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
