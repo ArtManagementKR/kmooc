@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 00:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,42 +24,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22003M+2022_S3+type@asset+block@AI%EC%9C%B5%ED%95%A9%EA%B5%90%EC%9C%A1%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손끝 금융, 핀테크 경영]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY110_01k+2022_05A_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY110_01k+2022_05A_T1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                송용욱
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2022/03/30</time>
-                
-                ~ <time>2022/05/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY110_01k+2022_05A_T1+type@asset+block@%ED%95%80%ED%85%8C%ED%81%AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공직사회 반부패 원리와 방안]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY109_01k+2022_04A_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY109_01k+2022_04A_T1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한유성
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2022/03/30</time>
-                
-                ~ <time>2022/05/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY109_01k+2022_04A_T1+type@asset+block@%EB%B0%98%EB%B6%80%ED%8C%A8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엑셀로 배우는 비용편익분석]]></title>
@@ -114,6 +78,42 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY108_01k+2022_03A_T1+type@asset+block@%ED%8C%A8%ED%82%A4%EC%A7%95_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손끝 금융, 핀테크 경영]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY110_01k+2022_05A_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY110_01k+2022_05A_T1/about</guid>
+            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                송용욱
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2022/03/30</time>
+                
+                ~ <time>2022/05/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY110_01k+2022_05A_T1+type@asset+block@%ED%95%80%ED%85%8C%ED%81%AC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공직사회 반부패 원리와 방안]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY109_01k+2022_04A_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY109_01k+2022_04A_T1/about</guid>
+            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한유성
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2022/03/30</time>
+                
+                ~ <time>2022/05/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY109_01k+2022_04A_T1+type@asset+block@%EB%B0%98%EB%B6%80%ED%8C%A8_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통증을 물어보는 진료 중국어]]></title>
