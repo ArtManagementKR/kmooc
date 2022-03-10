@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,25 +401,7 @@
                 ~ <time>2022/05/25</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY106_01k+2022_01A_T1+type@asset+block@%EC%97%91%EC%85%80.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부와 행정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_02A_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_02A_T1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한상일
-                </span>
-                <span class="kr01_school">Yonsei University Mirae Campus</span>
-                </div>
-                <div><time>2022/03/30</time>
-                
-                ~ <time>2022/05/25</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2022_02A_T1+type@asset+block@%EC%A0%95%EB%B6%80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY106_01k+2022_01A_T1+type@asset+block@%EC%97%91%EC%85%80_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PACK&TECH;: 패키징(기초편) (K-MOOC ─ 개강예정)]]></title>
@@ -455,7 +437,7 @@
                 ~ <time>2022/05/25</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY110_01k+2022_05A_T1+type@asset+block@%ED%95%80%ED%85%8C%ED%81%AC.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY110_01k+2022_05A_T1+type@asset+block@%ED%95%80%ED%85%8C%ED%81%AC_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공직사회 반부패 원리와 방안 (K-MOOC ─ 개강예정)]]></title>
@@ -474,6 +456,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY109_01k+2022_04A_T1+type@asset+block@%EB%B0%98%EB%B6%80%ED%8C%A8_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부와 행정 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_02A_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_02A_T1/about</guid>
+            <pubDate>Wed, 09 Mar 2022 00:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한상일
+                </span>
+                <span class="kr01_school">Yonsei University Mirae Campus</span>
+                </div>
+                <div><time>2022/03/30</time>
+                
+                ~ <time>2022/05/25</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2022_02A_T1+type@asset+block@%EC%A0%95%EB%B6%80_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통증을 물어보는 진료 중국어 (K-MOOC ─ 개강예정)]]></title>
