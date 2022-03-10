@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -491,7 +491,7 @@
                 ~ <time>2022/07/08</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/static/images/no_images_large.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU04+2022_04+type@asset+block@1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통증을 물어보는 진료 중국어 (K-MOOC ─ 개강예정)]]></title>
