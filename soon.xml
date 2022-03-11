@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 00:53:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -114,24 +114,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2022_02A_T1+type@asset+block@%EC%A0%95%EB%B6%80_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ML-Agent와 강화학습]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU04+2022_04/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU04+2022_04/about</guid>
-            <pubDate>Thu, 10 Mar 2022 07:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                송현철 and 1 others
-                </span>
-                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/28</time>
-                
-                ~ <time>2022/07/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU04+2022_04+type@asset+block@1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통증을 물어보는 진료 중국어]]></title>
@@ -312,6 +294,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG17k+2022_T1+type@asset+block@_%EC%84%9C%EA%B0%95%EB%8C%80_%EC%A0%9C%ED%95%9C%EB%90%9C_%EC%9C%A4%EB%A6%AC%EC%84%B1_%EC%9B%90%EC%9D%B8%EA%B3%BC_%EC%B2%98%EB%B0%A9_2022-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[행정과 인공지능: 정부, AI에 미래를 묻다.]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk11+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk11+2022_T1/about</guid>
+            <pubDate>Fri, 11 Mar 2022 00:53:38 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한세억
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/03/15</time>
+                
+                ~ <time>2022/04/24</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk11+2022_T1+type@asset+block@%EB%8F%99%EC%95%84%EB%8C%80_%ED%96%89%EC%A0%95%EA%B3%BC%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%A0%95%EB%B6%80_AI%EC%97%90%EB%AF%B8%EB%9E%98%EB%A5%BC%EB%AC%BB%EB%8B%A4_%ED%95%9C%EC%84%B8%EC%96%B5__%EA%B5%AD%EB%AC%B8_%EC%98%81%EB%AC%B8__%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대학생을 위한 영어의 장벽 넘기]]></title>
