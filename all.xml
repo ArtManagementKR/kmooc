@@ -4,368 +4,368 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 00:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[고대 그리스 신화와 문학세계 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[3D Printing 제품 모델링 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 23:13:40 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                유호전
+                정승언
                 </span>
-                <span class="kr01_school">Pyeongtaek University</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
                 <div><time>2022/03/14</time>
                 
-                ~ <time>2022/05/21</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC02k+2022_T1+type@asset+block@2022-1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW005+2022_T1_5+type@asset+block@K-MOOC_3D_printing_%EC%A0%9C%ED%92%88_%EB%AA%A8%EB%8D%B8%EB%A7%81.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디지털 시대의 커뮤니케이션 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[SW 코딩 프로그래밍 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sun, 13 Mar 2022 23:13:40 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                 이시화
+                곽문기
                 </span>
-                <span class="kr01_school">Pyeongtaek University</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
                 <div><time>2022/03/14</time>
                 
-                ~ <time>2022/05/21</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:PTUk+SF_PMOOC01k+2022_T1+type@asset+block@2022-1.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW006+2022_T1_6+type@asset+block@K-MOOC_SW%EC%BD%94%EB%94%A9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반려견 컷 스타일링 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP04+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP04+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[가상현실과 미디어 기술 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                배숙주
+                장현주
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/29</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAUP04+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85_%EC%BB%B7%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW004+2022_T1_4+type@asset+block@K-MOOC_%EA%B0%80%EC%83%81%ED%98%84%EC%8B%A4%EA%B3%BC_%EB%AF%B8%EB%94%94%EC%96%B4_%EA%B8%B0%EC%88%A0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[환경관리학 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAU02+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAU02+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[마인드키퍼 정신건강 초기단기 개입과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이승길
+                채정아
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/22</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAU02+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%99%98%EA%B2%BD%EA%B4%80%EB%A6%AC%ED%95%99.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW003+2022_T1_3+type@asset+block@K-MOOC_%EB%A7%88%EC%9D%B8%EB%93%9C%ED%82%A4%ED%8D%BC_%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95_%EC%B4%88%EA%B8%B0%EB%8B%A8%EA%B8%B0_%EA%B0%9C%EC%9E%85%EA%B3%BC%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[법집행의 딜레마 (Law Enforcement’s Dilemma) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWU+SWU002+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWU+SWU002+2022_T1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[소셜벤처 빌드업 과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김영식
+                안지훈
                 </span>
-                <span class="kr01_school">Seowon University</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/21</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWU+SWU002+2022_T1+type@asset+block@%EB%B2%95%EC%A7%91%ED%96%89_%EC%8D%B8%EB%84%A4%EC%9D%BC_273_.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW002+2022_T1_2+type@asset+block@K-MOOC_%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98_%EB%B9%8C%EB%93%9C%EC%97%85_%EA%B3%BC%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[K-하브루타 : 부모교육 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SWU+SWU001+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SWU+SWU001+2022_T1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[소셜벤처 워밍업 과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김정진
+                안지훈
                 </span>
-                <span class="kr01_school">Seowon University</span>
+                <span class="kr01_school">Hanyang Women’s University</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/21</time>
+                ~ <time>2022/04/29</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SWU+SWU001+2022_T1+type@asset+block@%EB%B6%80%EB%AA%A8%EA%B5%90%EC%9C%A1_%EC%8D%B8%EB%84%A4%EC%9D%BC_340_.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HYWoman+HYW001+2022_T1_1+type@asset+block@K-MOOC_%EC%86%8C%EC%85%9C%EB%B2%A4%EC%B2%98_%EC%9B%8C%EB%B0%8D%EC%97%85_%EA%B3%BC%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[교육데이터 분석 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004M+2022_S4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22004M+2022_S4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[New Horizons in Chinese Philosophy | 中国哲学新视野 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이동환
+                Yuncheng Zhou
                 </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                <span class="kr01_school">XuetangX</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/14</time>
+                ~ <time>2023/01/01</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22004M+2022_S4+type@asset+block@04_%EA%B5%90%EC%9C%A1%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D__%EC%8D%B8%EB%84%A4%EC%9D%BC_v3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+NHCP2021+2022T1+type@asset+block@course_image.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미래교육의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22001M+2022_S1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22001M+2022_S1/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[왜 음식윤리인가 : 문제 해결의 열쇠 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                정제영
+                김석신
                 </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                <span class="kr01_school">THE CATHOLIC UNIVERSITY OF KOREA</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/14</time>
+                ~ <time>2022/06/26</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22001M+2022_S1+type@asset+block@%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EC%9D%98_%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CUKk+CORE_CUK01+2022_01+type@asset+block@food.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[R 프로그래밍의 기초 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002M+2022_S2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:EwhaK+EW22002M+2022_S2/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[Excel Basic Foundation (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이선복
+                Kishor Chandran
                 </span>
-                <span class="kr01_school">EWHA WOMANS UNIVERSITY</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/14</time>
+                ~ <time>2022/06/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:EwhaK+EW22002M+2022_S2+type@asset+block@R%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98_%EA%B8%B0%EC%B4%88.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_009+2022_1A+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-excel.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[반려견 기본예절훈련 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP03+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP03+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[철도인프라 BIM 활용기술 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                손아름 and 1 others
+                신민호 외 12명(김진만 and 11 others
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/05/19</time>
+                ~ <time>2022/06/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAUP03+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85_%EB%B0%98%EB%A0%A4%EA%B2%AC%EA%B8%B0%EB%B3%B8%EC%98%88%EC%A0%88.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_012+2022_1E+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_KakaoTalk_20210216_132722454.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[기초 반려견 스타일링 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP01+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP01+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[Human Resource Management in the Hospitality industry (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                오희경
+                Alaa Nimer Abukhalifeh
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/05/19</time>
+                ~ <time>2022/06/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAUP01+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85_%EA%B8%B0%EC%B4%88%EB%B0%98%EB%A0%A4%EA%B2%AC.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_008+2022_1B+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9A%B0%EC%86%A1%EB%8C%80_HR_%EC%8D%B8%EB%84%A4%EC%9D%BC%EC%88%98%EC%A0%95__1_.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[반려동물의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP02+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP02+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[Project Management (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                오희경
+                Anura Amarasena
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/09</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/05/19</time>
+                ~ <time>2022/06/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAUP02+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85_%EB%B0%98%EB%A0%A4%EB%8F%99%EB%AC%BC%EC%9D%98%EC%9D%B4%ED%95%B4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_004K+2022_1J+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80-Project_Managemet_Anura_Amarasena_-%EA%B5%AD%EB%AC%B8-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[펫 소품 디자인 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP05+2022_4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:JanganUniv+JAUP05+2022_4/about</guid>
-            <pubDate>Wed, 09 Mar 2022 09:12:48 GMT</pubDate>
+            <title><![CDATA[K-뷰티 메이크업 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                손아름 and 1 others
+                김혜균
                 </span>
-                <span class="kr01_school">JanganUniversity</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/09</time>
-                
-                ~ <time>2022/05/19</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:JanganUniv+JAUP05+2022_4+type@asset+block@%EC%9E%A5%EC%95%88%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%B5%9C%EC%A2%85_%ED%8E%AB%EC%86%8C%ED%92%88%EB%94%94%EC%9E%90%EC%9D%B8.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[도전! 국제조세법 101 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS06+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS06+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                양인준
-                </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
-                </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
                 ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS06+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.006.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_007K+2022_1H+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80-K_%EB%B7%B0%ED%8B%B0_%EB%A9%94%EC%9D%B4%ED%81%AC%EC%97%85_%EA%B9%80%ED%98%9C%EA%B7%A0_-%EA%B5%AD%EB%AC%B8-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마켓과 ING하기: 마케팅 고수가 되기 위한 원리 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS04+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS04+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[디지털 치과학 (Digital Dentistry) (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이성호
+                이광영
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/06/12</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS04+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.019.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_01+2022_T1_1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도시와 건축 실무의 접점, 단지계획 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS09+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS09+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[헬리콥터 비행의 이해 : 한계 그리고 도전 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                유석연
+                이덕주
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">Korea Advanced Institute of Science and Technology</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/06/12</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS09+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.016.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KAISTk+KMHOU01+2022_K5_01+type@asset+block@23.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정의롭고 좋은 삶에 관한 이야기 - 플라톤 <국가> 읽기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS11+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS11+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[Purchase and Inventory Management (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이종환
+                Per Henrik Jonsson
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/05/09</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS11+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.001.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_010+2022_1D+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9A%B0%EC%86%A1%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-Inventory.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[국제이주의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS07+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS07+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[How to open a food & beverage business (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이병하
+                Per Henrik Jonsson
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/05/09</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS07+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.007.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_006K+2022_1G+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80-How_to_open_a_food_beverage_business_Per_Henrik_Jonsson_-%EA%B5%AD%EB%AC%B8-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인공지능 만들기 : 기계학습 방법론의 이해 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+UOS10+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+UOS10+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[Concepts of Post-Production (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                전종준
+                박성우
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/05/09</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+UOS10+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.017.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_005K+2022_1F+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80-Concepts_of_post-production_%EB%B0%95%EC%84%B1%EC%9A%B0_-%EA%B5%AD%EB%AC%B8-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이저란 무엇인가? 기초에서 응용까지 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOSk+ACE_UOS05+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOSk+ACE_UOS05+2022_T1/about</guid>
-            <pubDate>Tue, 08 Mar 2022 09:12:27 GMT</pubDate>
+            <title><![CDATA[Introduction to Railroad Systems (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이주한
+                Binayak Bhandari
                 </span>
-                <span class="kr01_school">UNIVERSITY OF SEOUL</span>
+                <span class="kr01_school">WOOSONG UNIVERSITY</span>
                 </div>
-                <div><time>2022/03/08</time>
+                <div><time>2022/03/14</time>
                 
-                ~ <time>2022/06/20</time>
+                ~ <time>2022/05/09</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOSk+ACE_UOS05+2022_T1+type@asset+block@2022_01%ED%95%99%EA%B8%B0.011.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_011+2022_1C+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9A%B0%EC%86%A1%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-Railroad.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[최초반응자를 위한 외상처치술 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 14 Mar 2022 02:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진우
+                </span>
+                <span class="kr01_school">Daejeon Health Institute of Technology</span>
+                </div>
+                <div><time>2022/03/14</time>
+                
+                ~ <time>2022/07/03</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DJHIT+HIT01+2022_H1+type@asset+block@main1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[유니티 비주얼 스크립팅 (K-MOOC ─ 개강예정)]]></title>
