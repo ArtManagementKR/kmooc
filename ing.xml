@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 10:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 11:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[3D Printing 제품 모델링]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW005+2022_T1_5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW005+2022_T1_5/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정승언
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[SW 코딩 프로그래밍]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW006+2022_T1_6/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW006+2022_T1_6/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 곽문기
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[가상현실과 미디어 기술]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW004+2022_T1_4/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW004+2022_T1_4/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장현주
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[마인드키퍼 정신건강 초기단기 개입과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW003+2022_T1_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW003+2022_T1_3/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 채정아
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[소셜벤처 빌드업 과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW002+2022_T1_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW002+2022_T1_2/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안지훈
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[소셜벤처 워밍업 과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 14 Mar 2022 10:14:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW001+2022_T1_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW001+2022_T1_1/about</guid>
+            <pubDate>Mon, 14 Mar 2022 11:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안지훈
