@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 09:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,6 +170,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG14k+2022_T1+type@asset+block@4._%EC%84%9C%EA%B0%95%EB%8C%80%ED%95%99%EA%B5%90-%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%9D%84_%EC%9C%84%ED%95%9C_%EC%98%81%EC%96%B4%EC%9D%98_%EC%9E%A5%EB%B2%BD_%EB%84%98%EA%B8%B0_%EC%B1%84%EC%84%9C%EC%98%81_-%EA%B5%AD%EB%AC%B8_%EC%98%81%EB%AC%B8_-%EA%B0%95%EC%A2%8C%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기본간호(Basic Nursing)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_02+2022-T1-1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_02+2022-T1-1/about</guid>
+            <pubDate>Wed, 16 Mar 2022 10:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이정란
+                </span>
+                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/15</time>
+                
+                ~ <time>2022/06/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_02+2022-T1-1+type@asset+block@%EA%B8%B0%EB%B3%B8%EA%B0%84%ED%98%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[지역사회 간호(Community Nursing)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_05+2022-T1-1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WHSUK+WHSUK_05+2022-T1-1/about</guid>
+            <pubDate>Wed, 16 Mar 2022 10:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박금숙
+                </span>
+                <span class="kr01_school">WONKWANG HEALTH SCIENCE UNIVERSITY</span>
+                </div>
+                <div><time>2022/03/15</time>
+                
+                ~ <time>2022/06/12</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WHSUK+WHSUK_05+2022-T1-1+type@asset+block@%EC%A7%80%EC%97%AD%EC%82%AC%ED%9A%8C%EA%B0%84%ED%98%B8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[3D Printing 제품 모델링]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW005+2022_T1_5/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:HYWoman+HYW005+2022_T1_5/about</guid>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_009+2022_1A+type@asset+block@%EC%9A%B0%EC%86%A1%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC-excel.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[철도인프라 BIM 활용기술]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_012+2022_1E/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_012+2022_1E/about</guid>
-            <pubDate>Mon, 14 Mar 2022 09:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신민호 외 12명(김진만 and 11 others
-                </span>
-                <span class="kr01_school">WOOSONG UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/14</time>
-                
-                ~ <time>2022/06/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_012+2022_1E+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_KakaoTalk_20210216_132722454.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Human Resource Management in the Hospitality industry]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_008+2022_1B/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:WSUK+WSU_008+2022_1B/about</guid>
-            <pubDate>Mon, 14 Mar 2022 09:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                Alaa Nimer Abukhalifeh
-                </span>
-                <span class="kr01_school">WOOSONG UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/14</time>
-                
-                ~ <time>2022/06/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:WSUK+WSU_008+2022_1B+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9A%B0%EC%86%A1%EB%8C%80_HR_%EC%8D%B8%EB%84%A4%EC%9D%BC%EC%88%98%EC%A0%95__1_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
