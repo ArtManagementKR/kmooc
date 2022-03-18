@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 06:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 07:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,76 +296,76 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2021-1k+2022_C1+type@asset+block@%EB%AF%B8%EA%B5%AD%EB%AC%B8%ED%99%94%EC%9D%98%EC%86%8D%EC%82%B4_22-1_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[해외긴급구호 의료팀 교육]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH01+2022_1/about</guid>
-            <pubDate>Mon, 14 Mar 2022 00:52:12 GMT</pubDate>
+            <title><![CDATA[크메르어 문자와 기초회화]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL07+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL07+2022_T1/about</guid>
+            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이승준 and 9 others
+                정연창
                 </span>
-                <span class="kr01_school">Korea Foundation for International Healthcare</span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
                 </div>
                 <div><time>2022/03/21</time>
                 
-                ~ <time>2022/05/08</time>
+                ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH01+2022_1+type@asset+block@%EA%B0%95%EC%A2%8C%EC%B9%B4%EB%93%9C-min.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL07+2022_T1+type@asset+block@%ED%81%AC%EB%A9%94%EB%A5%B4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOFIH+KOFIH02+2022_1/about</guid>
-            <pubDate>Sun, 13 Mar 2022 11:10:54 GMT</pubDate>
+            <title><![CDATA[기초 힌디어]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL05+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL05+2022_T1/about</guid>
+            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                김미선 and 5 others
+                손연우 and 1 others
                 </span>
-                <span class="kr01_school">Korea Foundation for International Healthcare</span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
                 </div>
                 <div><time>2022/03/21</time>
                 
-                ~ <time>2022/05/17</time>
+                ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOFIH+KOFIH02+2022_1+type@asset+block@%EC%9D%B8%ED%8A%B8%EB%A1%9C_%EC%82%AC%EC%A7%842.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL05+2022_T1+type@asset+block@Thumbnail_%EA%B8%B0%EC%B4%88%ED%9E%8C%EB%94%94%EC%96%B4.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[통증을 물어보는 진료 중국어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS09+2022-1_C4/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS09+2022-1_C4/about</guid>
-            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <title><![CDATA[현대 미얀마어 입문]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL01+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL01+2022_T1/about</guid>
+            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                종혜현
+                박장식 and 1 others
                 </span>
-                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
                 </div>
                 <div><time>2022/03/21</time>
                 
-                ~ <time>2022/07/04</time>
+                ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS09+2022-1_C4+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL01+2022_T1+type@asset+block@KakaoTalk_20210310_095807284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통증을 알아듣는 진료 중국어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS08+2022-1_C3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CUFS+CUFS08+2022-1_C3/about</guid>
-            <pubDate>Mon, 28 Feb 2022 19:10:42 GMT</pubDate>
+            <title><![CDATA[태국어 문장 만들기]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</guid>
+            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                장린자
+                안종량
                 </span>
-                <span class="kr01_school">CYBER HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
                 </div>
                 <div><time>2022/03/21</time>
                 
-                ~ <time>2022/07/04</time>
+                ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CUFS+CUFS08+2022-1_C3+type@asset+block@%EA%B0%95%EC%A2%8C%EB%A9%94%EC%9D%B8.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL03+2022_T1+type@asset+block@Thumbnail_%ED%83%9C%EA%B5%AD%EC%96%B4%EB%AC%B8%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
