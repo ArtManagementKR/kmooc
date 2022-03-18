@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,13 +710,13 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL01+2022_T1+type@asset+block@KakaoTalk_20210310_095807284.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태국어 문장 만들기 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</guid>
-            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
+            <title><![CDATA[베트남어 읽기 A2 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL06+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL06+2022_T1/about</guid>
+            <pubDate>Fri, 18 Mar 2022 08:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                안종량
+                배양수
                 </span>
                 <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
                 </div>
@@ -725,7 +725,7 @@
                 ~ <time>2022/06/20</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL03+2022_T1+type@asset+block@Thumbnail_%ED%83%9C%EA%B5%AD%EC%96%B4%EB%AC%B8%EC%9E%A5%EB%A7%8C%EB%93%A4%EA%B8%B0.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL06+2022_T1+type@asset+block@noname011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
