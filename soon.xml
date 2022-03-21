@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 23:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 00:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,114 +258,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+CORE_DAU02k+2022_T2+type@asset+block@%EA%B3%A0%EC%A0%84%EA%B3%BC%ED%98%84%EC%8B%A4%EA%B2%BD%EC%98%81.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영문법, 숨겨진 일반성을 찾아서]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-2k+2022_C2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-2k+2022_C2/about</guid>
-            <pubDate>Mon, 14 Mar 2022 07:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이기정 and 1 others
-                </span>
-                <span class="kr01_school">HANYANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/07/10</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2021-2k+2022_C2+type@asset+block@%EC%98%81%EB%AC%B8%EB%B2%95_22-1_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국문화의 속살]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-1k+2022_C1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+IV_HYUKMOOC2021-1k+2022_C1/about</guid>
-            <pubDate>Mon, 14 Mar 2022 07:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                윤성호
-                </span>
-                <span class="kr01_school">HANYANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/07/03</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+IV_HYUKMOOC2021-1k+2022_C1+type@asset+block@%EB%AF%B8%EA%B5%AD%EB%AC%B8%ED%99%94%EC%9D%98%EC%86%8D%EC%82%B4_22-1_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크메르어 문자와 기초회화]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL07+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL07+2022_T1/about</guid>
-            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                정연창
-                </span>
-                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/06/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL07+2022_T1+type@asset+block@%ED%81%AC%EB%A9%94%EB%A5%B4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기초 힌디어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL05+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL05+2022_T1/about</guid>
-            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                손연우 and 1 others
-                </span>
-                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/06/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL05+2022_T1+type@asset+block@Thumbnail_%EA%B8%B0%EC%B4%88%ED%9E%8C%EB%94%94%EC%96%B4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[현대 미얀마어 입문]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL01+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL01+2022_T1/about</guid>
-            <pubDate>Fri, 18 Mar 2022 07:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박장식 and 1 others
-                </span>
-                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/06/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL01+2022_T1+type@asset+block@KakaoTalk_20210310_095807284.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베트남어 읽기 A2]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL06+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL06+2022_T1/about</guid>
-            <pubDate>Fri, 18 Mar 2022 08:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                배양수
-                </span>
-                <span class="kr01_school">BUSAN UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/03/21</time>
-                
-                ~ <time>2022/06/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:BUFSk+BUFS_ICFL06+2022_T1+type@asset+block@noname011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
