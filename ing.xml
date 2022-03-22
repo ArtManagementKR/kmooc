@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[고전과 현실경영]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 22 Mar 2022 08:15:44 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAU02k+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAU02k+2022_T2/about</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김용운
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인문고전 마르크스의 <자본>을 읽다]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 22 Mar 2022 08:15:44 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAUk3k+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAUk3k+2022_T2/about</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강신준
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[문학예술과 광기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 22 Mar 2022 08:15:44 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAU01k+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+CORE_DAU01k+2022_T2/about</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 함정임
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[알기 쉬운 기계재료 성형]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 22 Mar 2022 08:15:44 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2022_T2/about</guid>
+            <pubDate>Tue, 22 Mar 2022 09:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박준홍
