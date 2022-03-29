@@ -4,9 +4,45 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 23:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 00:57:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초급베트남어 듣기 말하기 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Tue, 29 Mar 2022 00:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이강우
+                </span>
+                <span class="kr01_school">Dankook University</span>
+                </div>
+                <div><time>2022/03/29</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl002+2022_V5+type@asset+block@%EB%B2%A0%ED%8A%B8%EB%82%A8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[초급아랍어 입문과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Tue, 29 Mar 2022 00:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                윤현호
+                </span>
+                <span class="kr01_school">Dankook University</span>
+                </div>
+                <div><time>2022/03/29</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl001+2022_A5+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%95%84%EB%9E%8D%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Harmonic functions of two real variables and Applications (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:POSTECHk+MATH210+2022_T1/about</link>
@@ -332,40 +368,40 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU04+2022_04+type@asset+block@ML-Agent%EC%99%80_%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산업용 증강현실(iAR) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU03+2022_03/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU03+2022_03/about</guid>
-            <pubDate>Mon, 28 Mar 2022 10:14:24 GMT</pubDate>
+            <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_1_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_1_2022_T1/about</guid>
+            <pubDate>Tue, 29 Mar 2022 00:57:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                강민식
+                우민정
                 </span>
-                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                <span class="kr01_school">University of Ulsan</span>
                 </div>
-                <div><time>2022/03/28</time>
+                <div><time>2022/04/12</time>
                 
-                ~ <time>2022/07/09</time>
+                ~ <time>2022/05/30</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU03+2022_03+type@asset+block@%EC%82%B0%EC%97%85%EC%9A%A9%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU601_02K+U601A_1_2022_T1+type@asset+block@%EC%9A%B4%EB%8F%99%EA%B3%BC_%EB%87%8C_%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[VR프로그래밍 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU01+2022_01/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:MA_NSU+MATCHUP_NSU01+2022_01/about</guid>
-            <pubDate>Mon, 28 Mar 2022 10:14:24 GMT</pubDate>
+            <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_1_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_1_2022_T1/about</guid>
+            <pubDate>Tue, 29 Mar 2022 00:57:16 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                강민식
+                김효은
                 </span>
-                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                <span class="kr01_school">University of Ulsan</span>
                 </div>
-                <div><time>2022/03/28</time>
+                <div><time>2022/04/12</time>
                 
-                ~ <time>2022/07/09</time>
+                ~ <time>2022/05/30</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:MA_NSU+MATCHUP_NSU01+2022_01+type@asset+block@VR%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_02K+U602A_1_2022_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[결정의 미학 : 결정이 두려운 당신에게 (K-MOOC ─ 개강예정)]]></title>
@@ -672,42 +708,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl003+2022_P5+type@asset+block@%ED%8F%AC%EB%A5%B4%ED%88%AC_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초급베트남어 듣기 말하기 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl002+2022_V5/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl002+2022_V5/about</guid>
-            <pubDate>Mon, 28 Mar 2022 16:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이강우
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2022/03/29</time>
-                
-                ~ <time>2022/06/07</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl002+2022_V5+type@asset+block@%EB%B2%A0%ED%8A%B8%EB%82%A8_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[초급아랍어 입문과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A5/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl001+2022_A5/about</guid>
-            <pubDate>Mon, 28 Mar 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                윤현호
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2022/03/29</time>
-                
-                ~ <time>2022/06/07</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl001+2022_A5+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%95%84%EB%9E%8D%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
