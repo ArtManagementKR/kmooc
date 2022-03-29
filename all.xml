@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 12:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -690,24 +690,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:YonseiWK+FD_WY107_01k+2022_02A_T1+type@asset+block@%EC%A0%95%EB%B6%80_2022-1_-_%EB%B3%B5%EC%82%AC%EB%B3%B8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르투갈어초급 입문 과정 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P5/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DKUK+cfl003+2022_P5/about</guid>
-            <pubDate>Mon, 28 Mar 2022 08:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박원복
-                </span>
-                <span class="kr01_school">Dankook University</span>
-                </div>
-                <div><time>2022/03/29</time>
-                
-                ~ <time>2022/06/08</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl003+2022_P5+type@asset+block@%ED%8F%AC%EB%A5%B4%ED%88%AC_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
