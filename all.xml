@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:54:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:CNUk+MOE_CNU14+2022_1_14+type@asset+block@%EC%98%81%EC%83%81%EC%8B%9C%EC%99%80_%EC%BD%98%ED%85%90%EC%B8%A0_%EC%A0%9C%EC%9E%91.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[컴퓨터 패션 일러스트 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU02+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU02+2021_1/about</guid>
+            <pubDate>Thu, 31 Mar 2022 02:28:06 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                허승연
+                </span>
+                <span class="kr01_school">GwangJu University</span>
+                </div>
+                <div><time>2022/04/01</time>
+                
+                ~ <time>2022/04/28</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:GwangjuUniv+GU02+2021_1+type@asset+block@%EC%BB%B4%ED%93%A8%ED%84%B0_%ED%8C%A8%EC%85%98_%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8_1-1%EC%B0%A8%EC%8B%9C_V1.4_%EC%88%98%EC%A0%95.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
