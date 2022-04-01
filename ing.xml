@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[의료 인공지능 개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI004+2022_D_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서준범 and 19 others
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[소비자 건강정보 도구와 모바일헬스]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI006+2022_F_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 4 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[유전체 정보분석과정]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI002+2022_B_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI002+2022_B_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김이준 and 11 others
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[현장임상의 이해(내과)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI001+2022_A_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI001+2022_A_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조현
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[보건의료데이터 활용 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI005+2022_E_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이은주 and 7 others
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[정보의학개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_003/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOHI+KOHI003+2022_C_003/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이재호 and 10 others
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[사회적 가치와 개인의 자유]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CNUk+MOE_CNU13+2022_1_13/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CNUk+MOE_CNU13+2022_1_13/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 류광해
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[영상시와 콘텐츠 제작]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CNUk+MOE_CNU14+2022_1_14/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CNUk+MOE_CNU14+2022_1_14/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서경숙
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[다양성과 공존 그리고 비즈니스 사례]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2021_A55/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_001+2021_A55/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종구
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[스마트 리스크 관리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_002+2021_A54/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_spe_002+2021_A54/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임종권
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[컴퓨터 패션 일러스트]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Fri, 01 Apr 2022 08:18:10 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU02+2021_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:GwangjuUniv+GU02+2021_1/about</guid>
+            <pubDate>Fri, 01 Apr 2022 09:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 허승연
