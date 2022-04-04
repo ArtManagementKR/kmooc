@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[아시아사 개척자들의 역사 이야기 + @]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_009+2022_A22/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_009+2022_A22/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조영헌
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[인공지능 기반 소셜벤처의 비즈니스 모델 개발]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_004+2022_A27/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_004+2022_A27/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최병호
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[혁신 경영을 위한 다양성 전략]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_001+2022_A25/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_eco_001+2022_A25/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종구
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[창의적인 사람의 7가지 습관]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2022_T1_7/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_05+2022_T1_7/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김명주
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[건강과 식생활]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_01+2022_T1_9/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_01+2022_T1_9/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노봉수
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[4차산업혁명 시대의 디지털 윤리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUk+WEUP_SWUK_08+2022_T1_7/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+WEUP_SWUK_08+2022_T1_7/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤미선
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[부자학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_03+2022_T1_7/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_03+2022_T1_7/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한동철
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[소프트웨어와 창의적사고]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUk+SW_SWUK_06+2022_T1_7/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+SW_SWUK_06+2022_T1_7/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황준 and 4 others
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[사랑의 인문학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_04+2022_T1_5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUk+CK_SWUK_04+2022_T1_5/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 주창윤
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[한국 생활사]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_02+2022_T1_9/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SWUK+CK_SWUK_02+2022_T1_9/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정연식
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[자연을 닮은 피부와 건강]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk08k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk08k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권애란 and 4 others
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[스토리텔링으로 만나는 한의콘텐츠 기획]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk15k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk15k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강민희
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[스킨케어, 한의학과의 만남]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk13k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk13k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 황보민 and 5 others
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[맞춤형 화장품의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk12k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk12k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권애란 and 3 others
@@ -261,9 +261,9 @@
         </item>
         <item>
             <title><![CDATA[피부미용과 K-뷰티]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk07k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk07k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권애란 and 3 others
@@ -279,9 +279,9 @@
         </item>
         <item>
             <title><![CDATA[재활 스트레칭]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk11k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk11k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이영익
@@ -297,9 +297,9 @@
         </item>
         <item>
             <title><![CDATA[향기 치유]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk14k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk14k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박찬익 and 2 others
@@ -315,9 +315,9 @@
         </item>
         <item>
             <title><![CDATA[침구와 경락 피부미용]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk10k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk10k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이봉효 and 1 others
@@ -333,9 +333,9 @@
         </item>
         <item>
             <title><![CDATA[본초학과 한방팩]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 04 Apr 2022 08:16:09 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk09k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DHUk+DHUk09k+2022_T1/about</guid>
+            <pubDate>Mon, 04 Apr 2022 09:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박지하 and 1 others
