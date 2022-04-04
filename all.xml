@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 00:57:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -708,24 +708,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_01K+U602A_1_2022_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아사 개척자들의 역사 이야기 + @ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_009+2022_A22/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_009+2022_A22/about</guid>
-            <pubDate>Mon, 28 Mar 2022 03:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조영헌
-                </span>
-                <span class="kr01_school">KOREA UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/04</time>
-                
-                ~ <time>2022/07/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_009+2022_A22+type@asset+block@%EC%95%84%EC%8B%9C%EC%95%84%EC%82%AC%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
