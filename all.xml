@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 03:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 04:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[결정의 미학 : 결정이 두려운 당신에게 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 오연천
@@ -29,7 +29,7 @@
             <title><![CDATA[미래 모빌리티 최신 기술동향 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안경관 and 5 others
@@ -47,7 +47,7 @@
             <title><![CDATA[조선 산업 : 미래기술의 집합체가 되다 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상욱
@@ -65,7 +65,7 @@
             <title><![CDATA[미래산업에서 수소연료전지의 위상 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김준범
@@ -83,7 +83,7 @@
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅰ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -101,7 +101,7 @@
             <title><![CDATA[모범시민의 교양회계 Ⅰ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 05 Apr 2022 03:25:43 GMT</pubDate>
+            <pubDate>Tue, 05 Apr 2022 04:15:45 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
@@ -368,6 +368,42 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:DHUk+DHUk12k+2022_T1+type@asset+block@%EB%A7%9E%EC%B6%A4%ED%98%95%ED%99%94%EC%9E%A5%ED%92%88_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/19</time>
+                
+                ~ <time>2022/05/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_01K+U502A_3_2022_T1+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅰ (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영식
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/19</time>
+                
+                ~ <time>2022/05/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_01K+U501A_3_2022_T1+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삶을 버티게 하는 가치들 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK05+2022_T2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK05+2022_T2/about</guid>
@@ -383,7 +419,7 @@
                 ~ <time>2022/07/31</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK05+2022_T2+type@asset+block@20211008_094923-min.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK05+2022_T2+type@asset+block@%EC%82%B6%EC%9D%84%EB%B2%84%ED%8B%B0%EA%B2%8C%ED%95%98%EB%8A%94%EA%B0%80%EC%B9%98%EB%93%A4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4차 산업시대 미래 질병과 신약개발 (K-MOOC ─ 개강예정)]]></title>
@@ -456,6 +492,78 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk09+2022_T2+type@asset+block@%ED%81%B4%EB%A6%AD%EB%B6%80%EC%82%B03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU070.021k+2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김소라 학예사
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/04/12</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU070.021k+2022_T1+type@asset+block@_500_300__21_%EC%84%9C%EC%9A%B8%EB%8C%80%EC%86%8C%EC%9E%A5%ED%92%88%EA%B0%90%EC%83%81%ED%95%98%EA%B8%B0%EB%AC%B8%ED%99%94%EC%9E%AC%EB%A5%BC%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[현대철학사조: 현대철학의 거장들 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU067.021k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU067.021k+2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박찬국
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/04/12</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU067.021k+2022_T1+type@asset+block@_500_300__21_%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%82%AC%EC%A1%B0%ED%98%84%EB%8C%80%EC%B2%A0%ED%95%99%EC%9D%98%EA%B1%B0%EC%9E%A5%EB%93%A4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[교육연구를 위한 통계방법 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU068.021k+2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박현정
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/04/12</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU068.021k+2022_T1+type@asset+block@_500_300__21_%EA%B5%90%EC%9C%A1%EC%97%B0%EA%B5%AC%EB%A5%BC%EC%9C%84%ED%95%9C%ED%86%B5%EA%B3%84%EB%B0%A9%EB%B2%95.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[환자 시뮬레이터 체험하기 (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:SNUk+SNU069.021k+2022_T1/about</guid>
+            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                강자현
+                </span>
+                <span class="kr01_school">SEOUL NATIONAL UNIVERSITY</span>
+                </div>
+                <div><time>2022/04/12</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU069.021k+2022_T1+type@asset+block@_500_300__21_%ED%99%98%EC%9E%90%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 개강예정)]]></title>
@@ -600,114 +708,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA01+2022_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[결정의 미학 : 결정이 두려운 당신에게 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU503_01K+U503A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU503_01K+U503A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                오연천
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU503_01K+U503A_1_2022_T1+type@asset+block@%EA%B2%B0%EC%A0%95%EC%9D%98-%EB%AF%B8%ED%95%99-%EA%B2%B0%EC%A0%95%EC%9D%B4-%EB%91%90%EB%A0%A4%EC%9A%B4-%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래 모빌리티 최신 기술동향 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU604_01K+U604A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                안경관 and 5 others
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU604_01K+U604A_1_2022_T1+type@asset+block@%EB%AF%B8%EB%9E%98%EB%AA%A8%EB%B9%8C%EB%A6%AC%ED%8B%B0-%EC%8D%B8%EB%84%A4%EC%9D%BC-001.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선 산업 : 미래기술의 집합체가 되다 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU504_01K+U504A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU504_01K+U504A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이상욱
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU504_01K+U504A_1_2022_T1+type@asset+block@%EC%A1%B0%EC%84%A0%EC%82%B0%EC%97%85-%EB%AF%B8%EB%9E%98%EA%B8%B0%EC%88%A0%EC%9D%98%EC%A7%91%ED%95%A9%EC%B2%B4%EA%B0%80%EB%90%98%EB%8B%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래산업에서 수소연료전지의 위상 (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU603_01K+U603A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김준범
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/06/13</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU603_01K+U603A_1_2022_T1+type@asset+block@%EB%AF%B8%EB%9E%98%EC%82%B0%EC%97%85_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅰ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_01K+U601A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_01K+U601A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                우민정
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/05/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU601_01K+U601A_1_2022_T1+type@asset+block@%EC%9A%B4%EB%8F%99%EA%B3%BC_%EB%87%8C_%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[모범시민의 교양회계 Ⅰ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_01K+U602A_1_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_01K+U602A_1_2022_T1/about</guid>
-            <pubDate>Tue, 22 Mar 2022 04:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김효은
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/05</time>
-                
-                ~ <time>2022/05/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_01K+U602A_1_2022_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
