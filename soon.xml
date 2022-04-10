@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 16:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,78 +294,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_02K+U602A_1_2022_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 AI]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_AI03+2022_1/about</guid>
-            <pubDate>Tue, 05 Apr 2022 10:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                유시용
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/07/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_AI03+2022_1+type@asset+block@%E1%84%80%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%B2%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B52.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[지역사회 건강관리와 사회문제 해결]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_11K+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_11K+2022_1/about</guid>
-            <pubDate>Thu, 07 Apr 2022 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                백희정
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/07/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_11K+2022_1+type@asset+block@02_PNG__%E1%84%89%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC_%E1%84%80%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8B%E1%85%AA_%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6_%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF__1___1___1___2_.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터를 위한 글쓰기]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_micro02+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_micro02+2022_1/about</guid>
-            <pubDate>Thu, 07 Apr 2022 06:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                강유진
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/07/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_micro02+2022_1+type@asset+block@writing.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신경망 네트워크와 수학적 기반]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A01+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:CAUk+CAU_A01+2022_1/about</guid>
-            <pubDate>Tue, 05 Apr 2022 10:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                홍병우
-                </span>
-                <span class="kr01_school">CHUNG-ANG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/07/22</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_A01+2022_1+type@asset+block@output-onlinepngtools__2_.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
