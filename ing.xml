@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[DT시대 온택트 교육학개론]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 08:15:59 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_06+2021_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_06+2021_T2/about</guid>
+            <pubDate>Mon, 11 Apr 2022 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최동연
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 08:16:00 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_02/about</guid>
+            <pubDate>Mon, 11 Apr 2022 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 08:16:00 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_02/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC02+2022_02/about</guid>
+            <pubDate>Mon, 11 Apr 2022 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
