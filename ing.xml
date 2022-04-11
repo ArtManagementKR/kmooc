@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 00:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 02:47:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[DT시대 온택트 교육학개론]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 00:56:04 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 02:46:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최동연
@@ -29,7 +29,7 @@
             <title><![CDATA[문화와 생활 속 청렴]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 00:56:04 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 02:46:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -47,7 +47,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 11 Apr 2022 00:56:04 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 02:46:54 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -95,7 +95,7 @@
                 ~ <time>2022/07/22</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_11K+2022_1+type@asset+block@02_PNG__%E1%84%89%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%B5%E1%84%8B%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC_%E1%84%80%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%BC%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8B%E1%85%AA_%E1%84%89%E1%85%A1%E1%84%92%E1%85%AC%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6_%E1%84%92%E1%85%A2%E1%84%80%E1%85%A7%E1%86%AF__1___1___1___2_.png" length="0" type="image/png"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CAUk+CAU_11K+2022_1+type@asset+block@%EB%B0%B0%EB%84%88_%EC%82%AC%EC%9D%B4%EC%A6%88%EC%A4%84%EC%9E%84_%EC%B5%9C%EC%A2%85__2_.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크리에이터를 위한 글쓰기]]></title>
