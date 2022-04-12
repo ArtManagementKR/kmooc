@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 00:55:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[서울대 소장품 감상하기: 문화재를 중심으로 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김소라 학예사
@@ -29,7 +29,7 @@
             <title><![CDATA[현대철학사조: 현대철학의 거장들 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박찬국
@@ -47,7 +47,7 @@
             <title><![CDATA[교육연구를 위한 통계방법 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박현정
@@ -65,7 +65,7 @@
             <title><![CDATA[환자 시뮬레이터 체험하기 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 강자현
@@ -83,7 +83,7 @@
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -101,7 +101,7 @@
             <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 00:55:23 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 02:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
@@ -332,24 +332,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA5+2022_1+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_1/about</guid>
-            <pubDate>Mon, 11 Apr 2022 00:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지은 and 5 others
-                </span>
-                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/06/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA04+2022_1+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_2/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2022_2/about</guid>
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA02+2022_2+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2022_1/about</guid>
+            <pubDate>Mon, 11 Apr 2022 00:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이지은 and 5 others
+                </span>
+                <span class="kr01_school">KOREA INTERNATIONAL COOPERATION AGENCY</span>
+                </div>
+                <div><time>2022/04/11</time>
+                
+                ~ <time>2022/06/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KOICA+KOICA04+2022_1+type@asset+block@%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국문화로 배우는 한국어 (K-MOOC ─ 개강예정)]]></title>
