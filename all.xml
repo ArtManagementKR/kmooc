@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 13:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 14:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[모두에게 필요한 공중보건(Public health connects us all) (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 13:25:24 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 14:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장윤경 and 2 others
@@ -29,7 +29,7 @@
             <title><![CDATA[수학으로 푸는 블록체인(Blockchain solved with mathematics) (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 12 Apr 2022 13:25:24 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2022 14:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 백란 and 1 others
