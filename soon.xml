@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -276,6 +276,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KUMOHk+2020_KUMOH01+2022_1+type@asset+block@%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EB%A5%BC%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90_thumbnail.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬리에 꼬리를 무는 역사1]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:WOOSUK+WOOSUK01+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:WOOSUK+WOOSUK01+2022_1/about</guid>
+            <pubDate>Mon, 18 Apr 2022 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                조법종
+                </span>
+                <span class="kr01_school">WOOSUK</span>
+                </div>
+                <div><time>2022/04/25</time>
+                
+                ~ <time>2022/06/05</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:WOOSUK+WOOSUK01+2022_1+type@asset+block@%EA%B7%B8%EB%A6%BC1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ]]></title>
