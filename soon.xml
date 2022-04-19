@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 01:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,42 +294,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:WOOSUK+WOOSUK01+2022_1+type@asset+block@%EA%B7%B8%EB%A6%BC1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</guid>
-            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김진
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/19</time>
-                
-                ~ <time>2022/05/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_01K+U502A_3_2022_T1+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</guid>
-            <pubDate>Tue, 05 Apr 2022 04:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김영식
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/04/19</time>
-                
-                ~ <time>2022/05/20</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_01K+U501A_3_2022_T1+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

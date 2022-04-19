@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 01:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 19 Apr 2022 01:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/19</time>
+                
+                ~ <time>2022/05/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_01K+U502A_3_2022_T1+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅰ]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 19 Apr 2022 01:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영식
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/19</time>
+                
+                ~ <time>2022/05/20</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_01K+U501A_3_2022_T1+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증권투자이론 기초]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T2/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU602_02K+U602A_1_2022_T1+type@asset+block@%EB%AA%A8%EB%B2%94%EC%8B%9C%EB%AF%BC%EC%9D%98_%EA%B5%90%EC%96%91%ED%9A%8C%EA%B3%84_%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[DT시대 온택트 교육학개론]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_06+2021_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KYCU+KYCU_06+2021_T2/about</guid>
-            <pubDate>Mon, 11 Apr 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                최동연
-                </span>
-                <span class="kr01_school">KONYANG CYBER UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/05/09</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KYCU+KYCU_06+2021_T2+type@asset+block@KakaoTalk_20211026_142115066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문화와 생활 속 청렴]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_02/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:ACRCEDU+ACRC01+2022_02/about</guid>
-            <pubDate>Mon, 11 Apr 2022 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                신병주 and 4 others
-                </span>
-                <span class="kr01_school">Anti-Corruption and Civil Rights Commission</span>
-                </div>
-                <div><time>2022/04/11</time>
-                
-                ~ <time>2022/04/23</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:ACRCEDU+ACRC01+2022_02+type@asset+block@2022-2%EA%B8%B0_%EC%8B%9C%EC%A6%8C1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
