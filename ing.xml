@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 19 Apr 2022 08:16:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU502_01K+U502A_3_2022_T1/about</guid>
+            <pubDate>Tue, 19 Apr 2022 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김진
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅰ]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 19 Apr 2022 08:16:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_01K+U501A_3_2022_T1/about</guid>
+            <pubDate>Tue, 19 Apr 2022 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김영식
