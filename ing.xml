@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 01:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅱ]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 26 Apr 2022 01:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/26</time>
+                
+                ~ <time>2022/06/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_02K+U502A_3_2022_T1+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅱ]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Tue, 26 Apr 2022 01:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김영식
+                </span>
+                <span class="kr01_school">University of Ulsan</span>
+                </div>
+                <div><time>2022/04/26</time>
+                
+                ~ <time>2022/06/13</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_02K+U501A_3_2022_T1+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전산유체역학]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:KUMOHk+2020_KUMOH03+2022_1/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2020_03+2022_1_H2+type@asset+block@%EB%8C%80%ED%99%94%EC%99%80_%EC%9D%B8%EA%B0%84%EA%B4%80%EA%B3%84.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트 팩토리에 대한 이해 : 우리는 제조업을 어떻게 스마트하게 만들 수 있는가?]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_02+2022_1_H1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2020_02+2022_1_H1/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                천백민
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2020_02+2022_1_H1+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%A9%ED%86%A0%EB%A6%AC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[영상처리와 패턴인식]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2022_1_S3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+FD_SMU03+2022_1_S3/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이의철
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/26</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+FD_SMU03+2022_1_S3+type@asset+block@%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC%EC%99%80%ED%8C%A8%ED%84%B4%EC%9D%B8%EC%8B%9D.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
