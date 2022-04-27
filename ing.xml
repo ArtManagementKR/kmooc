@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Intermediate Accounting II]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 27 Apr 2022 08:16:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T1/about</guid>
+            <pubDate>Wed, 27 Apr 2022 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 QI JUN
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[Winning in Business: The Art of War by Sun Tzu]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Wed, 27 Apr 2022 08:16:39 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+JUFEZ+2022_T1/about</guid>
+            <pubDate>Wed, 27 Apr 2022 09:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 Liu Aijun and 4 others
