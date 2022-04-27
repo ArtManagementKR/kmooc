@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Intermediate Accounting II (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 04:38:51 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 05:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 QI JUN
@@ -24,6 +24,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+IAIIJNU+2022_T1+type@asset+block@%E6%9A%A8%E5%A4%A7_%E4%B8%AD%E7%BA%A7%E8%B4%A2%E5%8A%A1%E4%BC%9A%E8%AE%A1II_Intermediate_Accounti__%E6%B5%B7%E6%8A%A5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winning in Business: The Art of War by Sun Tzu (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Wed, 27 Apr 2022 05:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                Liu Aijun and 4 others
+                </span>
+                <span class="kr01_school">XuetangX</span>
+                </div>
+                <div><time>2022/04/27</time>
+                
+                ~ <time>2022/07/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+JUFEZ+2022_T1+type@asset+block@%E5%9B%BE%E7%89%871.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[희망의 인문학 : 우리는 희망에서 무엇을 배우고 가르칠 수 있는가 Ⅱ (K-MOOC ─ 진행중)]]></title>
@@ -348,24 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk06+2022_T2+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C_%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%80%EC%9A%A9%EB%9F%89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클릭! 부산(문화와언어) (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2022_T2/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김형빈
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk09+2022_T2+type@asset+block@%ED%81%B4%EB%A6%AD%EB%B6%80%EC%82%B03.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실용금융의 이론과 실제 (K-MOOC ─ 개강예정)]]></title>
