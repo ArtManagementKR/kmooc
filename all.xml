@@ -4,9 +4,63 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 23:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 01:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마학·마술학 기초과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Sun, 01 May 2022 01:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김병선 and 1 others
+                </span>
+                <span class="kr01_school">Korea Racing Authority</span>
+                </div>
+                <div><time>2022/05/01</time>
+                
+                ~ <time>2022/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KRA+KRA01+2022_3+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말보건관리·재활승마이론 기초과정 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Sun, 01 May 2022 01:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김진갑 and 1 others
+                </span>
+                <span class="kr01_school">Korea Racing Authority</span>
+                </div>
+                <div><time>2022/05/01</time>
+                
+                ~ <time>2022/07/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KRA+KRA02+2022_3+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[몸, 숨, 맘 요가 (YBBM : Yoga for Body, Breath and Mind) (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Sun, 01 May 2022 01:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                곽미자 and 2 others
+                </span>
+                <span class="kr01_school">Choonhae College of Health Sciences</span>
+                </div>
+                <div><time>2022/05/01</time>
+                
+                ~ <time>2022/06/07</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:CCHS+CCHS01+2021_02+type@asset+block@%EB%AA%B8.%EC%88%A8.%EB%A7%98_%EC%9A%94%EA%B0%80_%EB%84%A4%EC%9E%84%EC%B9%B4%EB%93%9C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Intermediate Accounting II (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:XuetangX+IAIIJNU+2022_T1/about</link>
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk08+2022_T2+type@asset+block@%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%9D%B4%EB%A1%A0_%EA%B8%B0%EC%B4%88_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶을 버티게 하는 가치들 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK05+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK05+2022_T2/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이국환
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK05+2022_T2+type@asset+block@%EC%82%B6%EC%9D%84%EB%B2%84%ED%8B%B0%EA%B2%8C%ED%95%98%EB%8A%94%EA%B0%80%EC%B9%98%EB%93%A4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4차 산업시대 미래 질병과 신약개발 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk07+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk07+2022_T2/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                조종현
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk07+2022_T2+type@asset+block@%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 삶을 위한 운동 스마트한 헬스케어 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk06+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk06+2022_T2/about</guid>
-            <pubDate>Mon, 18 Apr 2022 10:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박현태
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/04/18</time>
-                
-                ~ <time>2022/07/31</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk06+2022_T2+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C_%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%80%EC%9A%A9%EB%9F%89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실용금융의 이론과 실제 (K-MOOC ─ 개강예정)]]></title>
