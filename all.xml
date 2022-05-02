@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 12:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 13:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,24 +206,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_05+2022_T1+type@asset+block@hindian_card.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기초 인도네시아어 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</guid>
-            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이주영
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/05/02</time>
-                
-                ~ <time>2022/06/27</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_11+2022_T1+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기초 헝가리어 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2022_T1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2022_T1/about</guid>
@@ -240,6 +222,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_13+2022_T1+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초 인도네시아어 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이주영
+                </span>
+                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
+                </div>
+                <div><time>2022/05/02</time>
+                
+                ~ <time>2022/06/27</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_11+2022_T1+type@asset+block@sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공공외교와 한국 (K-MOOC ─ 진행중)]]></title>
