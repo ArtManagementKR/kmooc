@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[한국문화로 배우는 한국어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HansungK+HSKMOOCk03+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 노정은
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[태국어 문장 만들기 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:BUFSk+BUFS_ICFL03+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안종량
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[폴란드어 ABC와 기초여행회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_09+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_09+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최성은
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[포르투갈어 Pre-A1 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_08+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_08+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임소라
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[기초이란어(페르시아어) (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_04+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_04+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 곽새라
@@ -99,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[기초 우즈베크어 생활회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_12+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지은
@@ -117,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[스와힐리어 기초회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_07+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_07+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박정경
@@ -135,9 +135,9 @@
         </item>
         <item>
             <title><![CDATA[태국어 문자와 기초회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_03+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_03+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경은
@@ -153,9 +153,9 @@
         </item>
         <item>
             <title><![CDATA[기초 몽골어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_06+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_06+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김기선
@@ -171,9 +171,9 @@
         </item>
         <item>
             <title><![CDATA[기초 터키어 여행 회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_10+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_10+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최선아
@@ -189,9 +189,9 @@
         </item>
         <item>
             <title><![CDATA[힌디어 문자 및 발음과 기초여행회화 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:27 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_05+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_05+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 고태진
@@ -207,9 +207,9 @@
         </item>
         <item>
             <title><![CDATA[기초 인도네시아어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_11+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이주영
@@ -225,9 +225,9 @@
         </item>
         <item>
             <title><![CDATA[기초 헝가리어 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_13+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유진일
@@ -243,9 +243,9 @@
         </item>
         <item>
             <title><![CDATA[공공외교와 한국 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 May 2022 07:13:28 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:CBNUk+CBNUKF_01+2022_T1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:CBNUk+CBNUKF_01+2022_T1/about</guid>
+            <pubDate>Mon, 02 May 2022 09:14:02 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 문경연 and 11 others
