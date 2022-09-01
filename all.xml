@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 11:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 12:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[실전 타이포그래피 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 01 Sep 2022 11:13:34 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:DSU+DSU03+2022_T2_2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DSU+DSU03+2022_T2_2/about</guid>
+            <pubDate>Thu, 01 Sep 2022 12:26:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경원
