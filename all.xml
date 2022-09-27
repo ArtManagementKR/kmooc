@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 10:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 11:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[가족과 건강 : 운동과 뇌 건강 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 27 Sep 2022 08:26:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU601_02K+U601A_2_2022_T2/about</guid>
+            <pubDate>Tue, 27 Sep 2022 11:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 우민정
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[모범시민의 교양회계 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Tue, 27 Sep 2022 08:26:55 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_2_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU602_02K+U602A_2_2022_T2/about</guid>
+            <pubDate>Tue, 27 Sep 2022 11:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김효은
