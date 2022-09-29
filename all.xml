@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 09:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 10:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[정부와 행정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 29 Sep 2022 09:21:50 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_04A_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:YonseiWK+FD_WY107_01k+2022_04A_T2/about</guid>
+            <pubDate>Thu, 29 Sep 2022 10:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 한상일
