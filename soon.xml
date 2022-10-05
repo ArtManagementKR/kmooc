@@ -4,7 +4,7 @@
         <title>K-MOOC ─ 개강예정</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 03:37:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 04:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,60 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk06+2022_T3+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C_%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%80%EC%9A%A9%EB%9F%89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[증권투자이론 기초]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T3/about</guid>
+            <pubDate>Wed, 05 Oct 2022 04:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                한덕희
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/10/17</time>
+                
+                ~ <time>2023/01/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk08+2022_T3+type@asset+block@%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%9D%B4%EB%A1%A0_%EA%B8%B0%EC%B4%88_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%951.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클릭! 부산(문화와언어)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk09+2022_T3/about</guid>
+            <pubDate>Wed, 05 Oct 2022 04:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김형빈
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/10/17</time>
+                
+                ~ <time>2023/01/29</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk09+2022_T3+type@asset+block@%ED%81%B4%EB%A6%AD%EB%B6%80%EC%82%B03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[알기 쉬운 기계재료 성형]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2022_T3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUK04+2022_T3/about</guid>
+            <pubDate>Wed, 05 Oct 2022 04:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                박준홍
+                </span>
+                <span class="kr01_school">Dong-A University</span>
+                </div>
+                <div><time>2022/10/17</time>
+                
+                ~ <time>2022/12/18</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUK04+2022_T3+type@asset+block@%EC%95%8C%EA%B8%B0%EC%89%AC%EC%9A%B4%EA%B8%B0%EA%B3%84%EC%9E%AC%EB%A3%8C%EC%84%B1%ED%98%95.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극으로 하는 창의감성교육]]></title>
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU502_02K+U502A_4_2022_T2+type@asset+block@KakaoTalk_20210416_1152007601111.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가족과 건강 : 질병예방과 건강증진 Ⅱ]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_02K+U501A_4_2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU501_02K+U501A_4_2022_T2/about</guid>
-            <pubDate>Tue, 27 Sep 2022 01:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김영식
-                </span>
-                <span class="kr01_school">University of Ulsan</span>
-                </div>
-                <div><time>2022/10/11</time>
-                
-                ~ <time>2022/11/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU501_02K+U501A_4_2022_T2+type@asset+block@%EC%A7%88%EB%B3%91%EC%98%88%EB%B0%A9%EA%B3%BC-%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84_%EC%8D%B8%EB%84%A4%EC%9D%BC_100.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인지와 감성]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_2_B3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_6+2022_2_B3/about</guid>
-            <pubDate>Mon, 03 Oct 2022 01:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이지항
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/10/10</time>
-                
-                ~ <time>2022/12/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_6+2022_2_B3+type@asset+block@asset-v1_SMUk_SMU2021_6_2022_2_B3_type_asset_block_2022-1_%EC%9D%B8%EC%A7%80%EC%99%80-%EA%B0%90%EC%84%B1_%EC%9D%B4%EC%A7%80%ED%95%AD_optimized.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[감성디자인]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2022_2_B2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:SMUk+SMU2021_5+2022_2_B2/about</guid>
-            <pubDate>Tue, 04 Oct 2022 21:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                권지은
-                </span>
-                <span class="kr01_school">SANGMYUNG UNIVERSITY</span>
-                </div>
-                <div><time>2022/10/10</time>
-                
-                ~ <time>2022/12/12</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SMUk+SMU2021_5+2022_2_B2+type@asset+block@asset-v1_SMUk_SMU2021_5_2022_2_B2_type_asset_block_2022-1_%EA%B0%90%EC%84%B1%EB%94%94%EC%9E%90%EC%9D%B8_%EA%B6%8C%EC%A7%80%EC%9D%80_optimized.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
