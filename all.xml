@@ -4,9 +4,27 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Oct 2022 14:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 15:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고전문헌과 역사문화Ⅱ (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Mon, 17 Oct 2022 15:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                심경호
+                </span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
+                </div>
+                <div><time>2022/10/18</time>
+                
+                ~ <time>2022/11/30</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2022_AB2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4차 산업시대 미래 질병과 신약개발 (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk07+2022_T3/about</link>
@@ -350,22 +368,22 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_18+2022_T2+type@asset+block@%EC%97%B0%EA%B7%B9-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-%EC%8D%B8%EB%84%A4%EC%9D%BC--low.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연기와 오디션 테크닉 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_10+2022_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KSUk+KSUk_10+2022_T2/about</guid>
-            <pubDate>Mon, 17 Oct 2022 01:43:02 GMT</pubDate>
+            <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2022_AB5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2022_AB5/about</guid>
+            <pubDate>Mon, 17 Oct 2022 15:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
-                이기호
+                나흥식
                 </span>
-                <span class="kr01_school">KYUNGSUNG UNIVERSITY</span>
+                <span class="kr01_school">KOREA UNIVERSITY</span>
                 </div>
-                <div><time>2022/10/17</time>
+                <div><time>2022/11/01</time>
                 
-                ~ <time>2023/01/23</time>
+                ~ <time>2023/02/01</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KSUk+KSUk_10+2022_T2+type@asset+block@%EC%97%B0%EA%B8%B0%EC%99%80-%EC%98%A4%EB%94%94%EC%85%98-%ED%85%8C%ED%81%AC%EB%8B%89_%EC%8D%B8%EB%84%A4%EC%9D%BC-%EC%9D%B4%EB%AF%B8%EC%A7%80_100kb%EC%9D%B4%ED%95%98_.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_phy_002+2022_AB5+type@asset+block@08_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%89%E1%85%A2%E1%86%BC%E1%84%8B%E1%85%B5%E1%86%AB2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌시대, 문화관광콘텐츠의 이해 (K-MOOC ─ 개강예정)]]></title>
@@ -564,24 +582,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+PRIME_HYUKMOOC2017-1k+2022_C1+type@asset+block@%EB%AC%B8%ED%99%94%EC%BD%98%ED%85%90%EC%B8%A0_%EC%8A%A4%ED%86%A0%EB%A6%AC%ED%85%94%EB%A7%81_%EB%B6%84%EC%84%9D_326x200__%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80_2021.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[고전문헌과 역사문화Ⅱ (K-MOOC ─ 개강예정)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2022_AB2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_hum_001+2022_AB2/about</guid>
-            <pubDate>Tue, 04 Oct 2022 16:24:44 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                심경호
-                </span>
-                <span class="kr01_school">KOREA UNIVERSITY</span>
-                </div>
-                <div><time>2022/10/18</time>
-                
-                ~ <time>2022/11/30</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:KoreaUnivK+ku_hum_001+2022_AB2+type@asset+block@03_%E1%84%8F%E1%85%B3%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%80%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
