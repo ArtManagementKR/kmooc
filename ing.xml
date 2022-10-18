@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 08:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[혁신 마케팅 CASE STUDY]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 18 Oct 2022 07:35:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2017+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2017+2022_C1/about</guid>
+            <pubDate>Tue, 18 Oct 2022 09:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 문준연
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[반도체 공정 입문]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 18 Oct 2022 07:35:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-1k+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-1k+2022_C1/about</guid>
+            <pubDate>Tue, 18 Oct 2022 09:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김재균
@@ -45,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[비전공자를 위한 기초 화학]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 18 Oct 2022 07:35:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-2k+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2019-2k+2022_C1/about</guid>
+            <pubDate>Tue, 18 Oct 2022 09:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박경호
@@ -63,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[문화콘텐츠의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 18 Oct 2022 07:35:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+HYUkIV_HYUKEMOOC2020-1k+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+HYUkIV_HYUKEMOOC2020-1k+2022_C1/about</guid>
+            <pubDate>Tue, 18 Oct 2022 09:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김치호
@@ -81,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[문화콘텐츠 스토리텔링 분석]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 18 Oct 2022 07:35:58 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2017-1k+2022_C1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:HYUk+PRIME_HYUKMOOC2017-1k+2022_C1/about</guid>
+            <pubDate>Tue, 18 Oct 2022 09:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박기수
