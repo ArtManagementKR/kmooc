@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 06:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 07:47:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[아동과 청소년의 건강환경 Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 24 Oct 2022 06:16:52 GMT</pubDate>
+            <pubDate>Mon, 24 Oct 2022 07:47:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김동희
@@ -29,7 +29,7 @@
             <title><![CDATA[발레 : 융합문화예술의 실제 Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 24 Oct 2022 06:16:52 GMT</pubDate>
+            <pubDate>Mon, 24 Oct 2022 07:47:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김주원
@@ -47,7 +47,7 @@
             <title><![CDATA[DT시대 온택트 교육학개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 24 Oct 2022 06:16:52 GMT</pubDate>
+            <pubDate>Mon, 24 Oct 2022 07:47:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최동연
@@ -65,7 +65,7 @@
             <title><![CDATA[생각보다 가까운 FTA(2) (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 24 Oct 2022 06:16:52 GMT</pubDate>
+            <pubDate>Mon, 24 Oct 2022 07:47:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정인교
@@ -456,6 +456,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU002+2020_T1_05+type@asset+block@%EC%83%9D%ED%99%9C_%EC%86%8D%EC%9D%98_%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C__.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공자의 지혜 The Confucius’ Wisdom (K-MOOC ─ 개강예정)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:XuetangX+XuetangX_03+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:XuetangX+XuetangX_03+2022_T2/about</guid>
+            <pubDate>Mon, 24 Oct 2022 07:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                刘冬颖
+                </span>
+                <span class="kr01_school">XuetangX</span>
+                </div>
+                <div><time>2022/10/26</time>
+                
+                ~ <time>2023/02/26</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:XuetangX+XuetangX_03+2022_T2+type@asset+block@%E5%88%98%E5%86%AC%E9%A2%96%E8%80%81%E5%B8%88%E7%85%A7%E7%89%87.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[외국인근로자 사업담당자가 알아야 할 보건의료지원의 이해 (K-MOOC ─ 개강예정)]]></title>
