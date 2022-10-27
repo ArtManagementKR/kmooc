@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 05:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 06:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[기술경영개론 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 27 Oct 2022 05:24:48 GMT</pubDate>
+            <pubDate>Thu, 27 Oct 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종원
@@ -29,7 +29,7 @@
             <title><![CDATA[실전경영의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 27 Oct 2022 05:24:48 GMT</pubDate>
+            <pubDate>Thu, 27 Oct 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이성희 and 2 others
@@ -47,7 +47,7 @@
             <title><![CDATA[기업가정신과혁신 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 27 Oct 2022 05:24:48 GMT</pubDate>
+            <pubDate>Thu, 27 Oct 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이종원
@@ -65,7 +65,7 @@
             <title><![CDATA[문화창업마케팅 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 27 Oct 2022 05:24:48 GMT</pubDate>
+            <pubDate>Thu, 27 Oct 2022 06:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박남규
