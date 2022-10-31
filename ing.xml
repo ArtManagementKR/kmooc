@@ -4,9 +4,45 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Oct 2022 23:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 01:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌시대, 문화관광콘텐츠의 이해]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 31 Oct 2022 01:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이승길
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/10/31</time>
+                
+                ~ <time>2022/12/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU001+2020_T1_05+type@asset+block@%EA%B8%80%EB%A1%9C%EB%B2%8C%EC%8B%9C%EB%8C%80__%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EC%BD%98%ED%85%90%EC%B8%A0%EC%9D%98_%EC%9D%B4%ED%95%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활 속의 물리치료]]></title>
+            <link>http://www.kmooc.kr/courses?range=i</link>
+            <guid>http://www.kmooc.kr/courses?range=i</guid>
+            <pubDate>Mon, 31 Oct 2022 01:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이상빈
+                </span>
+                <span class="kr01_school">NAMSEOUL UNIVERSITY</span>
+                </div>
+                <div><time>2022/10/31</time>
+                
+                ~ <time>2022/12/23</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:NSU+NSU002+2020_T1_05+type@asset+block@%EC%83%9D%ED%99%9C_%EC%86%8D%EC%9D%98_%EB%AC%BC%EB%A6%AC%EC%B9%98%EB%A3%8C__.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술경영개론]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:HOSEO+HOSEO001+2022_T1/about</link>
@@ -330,42 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk07+2022_T3+type@asset+block@%EC%8B%A0%EC%95%BD%EA%B0%9C%EB%B0%9C_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건강한 삶을 위한 운동 스마트한 헬스케어]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk06+2022_T3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk06+2022_T3/about</guid>
-            <pubDate>Mon, 17 Oct 2022 09:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                박현태
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/10/17</time>
-                
-                ~ <time>2023/01/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk06+2022_T3+type@asset+block@%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%95%9C_%ED%97%AC%EC%8A%A4%EC%BC%80%EC%96%B4_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%A0%80%EC%9A%A9%EB%9F%89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[증권투자이론 기초]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T3/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:DAUk+DAUk08+2022_T3/about</guid>
-            <pubDate>Mon, 17 Oct 2022 09:28:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                한덕희
-                </span>
-                <span class="kr01_school">Dong-A University</span>
-                </div>
-                <div><time>2022/10/17</time>
-                
-                ~ <time>2023/01/29</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:DAUk+DAUk08+2022_T3+type@asset+block@%EC%A6%9D%EA%B6%8C%ED%88%AC%EC%9E%90%EC%9D%B4%EB%A1%A0_%EA%B8%B0%EC%B4%88_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EC%88%98%EC%A0%951.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
