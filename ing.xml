@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 05:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 06:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[체육학개론]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Nov 2022 05:25:19 GMT</pubDate>
+            <pubDate>Mon, 07 Nov 2022 06:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조욱상 and 9 others
@@ -29,7 +29,7 @@
             <title><![CDATA[사람중심 가치실현을 위한 인공지능]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Mon, 07 Nov 2022 05:25:19 GMT</pubDate>
+            <pubDate>Mon, 07 Nov 2022 06:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이상욱
@@ -38,7 +38,7 @@
                 </div>
                 <div><time>2022/11/07</time>
                 
-                ~ <time>2022/12/18</time>
+                ~ <time>2023/02/05</time>
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:HYUk+HYUKMOOC2022-1k+2022_C1+type@asset+block@%EC%82%AC%EB%9E%8C%EC%A4%91%EC%8B%AC_22-2.png" length="0" type="image/png"/>
