@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 06:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[우리유산을 보호하고 활용하는 길라잡이 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 09 Nov 2022 06:22:42 GMT</pubDate>
+            <pubDate>Wed, 09 Nov 2022 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종호
@@ -29,7 +29,7 @@
             <title><![CDATA[박물관 세계로 여행 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 09 Nov 2022 06:22:42 GMT</pubDate>
+            <pubDate>Wed, 09 Nov 2022 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종호
