@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 09:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 10:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[우리유산을 보호하고 활용하는 길라잡이 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 09 Nov 2022 07:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NUCH+NUCH_01+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NUCH+NUCH_01+2022_T2/about</guid>
+            <pubDate>Wed, 09 Nov 2022 10:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종호
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[박물관 세계로 여행 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Wed, 09 Nov 2022 07:15:04 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NUCH+NUCH_02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NUCH+NUCH_02+2022_T2/about</guid>
+            <pubDate>Wed, 09 Nov 2022 10:15:12 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 최종호
