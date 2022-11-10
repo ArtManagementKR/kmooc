@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Nov 2022 03:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Nov 2022 04:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -383,7 +383,7 @@
                 ~ <time>2022/12/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU703_01K+U703A_2022_T2+type@asset+block@%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%94%8C%EB%9E%AB%ED%8F%BC_.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU703_01K+U703A_2022_T2+type@asset+block@%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[기계공학의 미래 (K-MOOC ─ 개강예정)]]></title>
@@ -401,7 +401,7 @@
                 ~ <time>2022/12/27</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU704_01K+U704A_2022_T2+type@asset+block@%EA%B8%B0%EA%B3%84%EA%B3%B5%ED%95%99_%EC%8D%B8%EB%84%A4%EC%9D%BC_%ED%94%8C%EB%9E%AB%ED%8F%BC_.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:UOUk+UOU704_01K+U704A_2022_T2+type@asset+block@%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%80%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%A8_%E1%84%8A%E1%85%A5%E1%86%B7%E1%84%82%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%86%BA%E1%84%91%E1%85%A9%E1%86%B7_.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[동양철학과 21세기 문명 (K-MOOC ─ 개강예정)]]></title>
