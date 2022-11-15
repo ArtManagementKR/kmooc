@@ -4,14 +4,14 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 08:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 09:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[디지털 시대와 정신건강]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Nov 2022 08:17:51 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU703_01K+U703A_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU703_01K+U703A_2022_T2/about</guid>
+            <pubDate>Tue, 15 Nov 2022 09:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김성윤
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[기계공학의 미래]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Nov 2022 08:17:51 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:UOUk+UOU704_01K+U704A_2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:UOUk+UOU704_01K+U704A_2022_T2/about</guid>
+            <pubDate>Tue, 15 Nov 2022 09:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 임옥택
