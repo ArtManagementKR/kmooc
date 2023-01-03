@@ -4,14 +4,68 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 23:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 00:56:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[창업아이디어 탐색 및 실습 (K-MOOC ─ 진행중)]]></title>
+            <title><![CDATA[리더의 전략적 의사결정 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 Jan 2023 23:11:47 GMT</pubDate>
+            <pubDate>Tue, 03 Jan 2023 00:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                민재형
+                </span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
+                </div>
+                <div><time>2023/01/03</time>
+                
+                ~ <time>2023/03/08</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG19k+2022_T2_1+type@asset+block@%EC%84%9C%EA%B0%95%EB%8C%80_%EB%A6%AC%EB%8D%94%EC%9D%98_%EC%A0%84%EB%9E%B5%EC%A0%81_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95_%EC%8D%B8%EB%84%A4%EC%9D%BC_2022_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[삶과 교육 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Tue, 03 Jan 2023 00:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김재웅
+                </span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
+                </div>
+                <div><time>2023/01/03</time>
+                
+                ~ <time>2023/02/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG20k+2022_T2_1+type@asset+block@%EC%84%9C%EA%B0%95%EB%8C%80_%EC%82%B6%EA%B3%BC_%EA%B5%90%EC%9C%A1_%EC%8D%B8%EB%84%A4%EC%9D%BC_2022_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[아시아계 미국인: 차별과 배제의 정치 (K-MOOC ─ 진행중)]]></title>
+            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
+            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
+            <pubDate>Tue, 03 Jan 2023 00:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                하상응
+                </span>
+                <span class="kr01_school">SOGANG UNIVERSITY</span>
+                </div>
+                <div><time>2023/01/03</time>
+                
+                ~ <time>2023/02/17</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SOGANGk+SOGANG21k+2022_T2_1+type@asset+block@%EC%84%9C%EA%B0%95%EB%8C%80_%EC%95%84%EC%8B%9C%EC%95%84%EA%B3%84_%EB%AF%B8%EA%B5%AD%EC%9D%B8__%EC%B0%A8%EB%B3%84%EA%B3%BC_%EB%B0%B0%EC%A0%9C%EC%9D%98_%EC%A0%95%EC%B9%98_%EC%8D%B8%EB%84%A4%EC%9D%BC_2022_.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[창업아이디어 탐색 및 실습 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU02+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU02+2022_T2/about</guid>
+            <pubDate>Tue, 03 Jan 2023 00:55:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 정문호 and 1 others
@@ -27,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[인간의 판단과 의사결정 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 02 Jan 2023 23:11:47 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU01+2022_T2/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:AJOU+AJOU01+2022_T2/about</guid>
+            <pubDate>Tue, 03 Jan 2023 00:55:35 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일
@@ -312,60 +366,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:KRA+KRA02+2023_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한걸음 더 몽골어 더 알고 싶은 몽골어 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_14+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_14+2023_T1/about</guid>
-            <pubDate>Sat, 31 Dec 2022 10:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                김기선 and 1 others
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/12/31</time>
-                
-                ~ <time>2023/02/24</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_14+2023_T1+type@asset+block@thumbnail2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초급 인도네시아어 읽기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_16+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_16+2023_T1/about</guid>
-            <pubDate>Sat, 31 Dec 2022 10:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이주영
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/12/31</time>
-                
-                ~ <time>2023/03/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_16+2023_T1+type@asset+block@thumbnail.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이탈리아어, 첫 걸음 내딛기 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_15+2023_T1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:HUFS+HUFS_15+2023_T1/about</guid>
-            <pubDate>Sat, 31 Dec 2022 10:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                이상엽
-                </span>
-                <span class="kr01_school">HANKUK UNIVERSITY OF FOREIGN STUDIES</span>
-                </div>
-                <div><time>2022/12/31</time>
-                
-                ~ <time>2023/02/17</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:HUFS+HUFS_15+2023_T1+type@asset+block@%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공정사회로 가는 계약법 (K-MOOC ─ 개강예정)]]></title>
