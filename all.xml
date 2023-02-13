@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[항만물류와 4차 산업혁명Ⅱ (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:15:08 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 안창원 and 5 others
@@ -29,7 +29,7 @@
             <title><![CDATA[한국어이해교육론 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:15:08 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -47,7 +47,7 @@
             <title><![CDATA[한국어표현교육론 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:15:08 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박동호
@@ -65,7 +65,7 @@
             <title><![CDATA[문화와 생활 속 청렴 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:15:08 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 신병주 and 4 others
@@ -83,7 +83,7 @@
             <title><![CDATA[문화와 생활 속 청렴 시즌2 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 13 Feb 2023 04:15:08 GMT</pubDate>
+            <pubDate>Mon, 13 Feb 2023 06:16:17 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김경일 and 5 others
@@ -419,7 +419,7 @@
                 ~ <time>2023/05/02</time>
                 
                 </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU054.019k+2023_S1+type@asset+block@22-2_%EC%B2%A0%ED%95%99%EA%B3%BC%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.kmooc.kr/asset-v1:SNUk+SNU054.019k+2023_S1+type@asset+block@23-1_%EC%B2%A0%ED%95%99%EA%B3%BC%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Identity, Agency, Equality and Security in the Age of AI (K-MOOC ─ 개강예정)]]></title>
