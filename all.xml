@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 03:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 04:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[멀티링구얼 습득과 실천: 일본어와 영어를 동시에 배우기(초급) (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 16 Feb 2023 03:16:18 GMT</pubDate>
+            <pubDate>Thu, 16 Feb 2023 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 박강훈
@@ -29,7 +29,7 @@
             <title><![CDATA[일본의 이해 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Thu, 16 Feb 2023 03:16:18 GMT</pubDate>
+            <pubDate>Thu, 16 Feb 2023 04:15:08 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이기완
