@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 23:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 00:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[모두를 위한 사회학 입문 Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 15 May 2023 23:10:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2023_AA8/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_soc_002+2023_AA8/about</guid>
+            <pubDate>Tue, 16 May 2023 00:55:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김윤태
@@ -27,9 +27,9 @@
         </item>
         <item>
             <title><![CDATA[생물학적 인간Ⅱ (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 15 May 2023 23:10:35 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2023_AA5/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KoreaUnivK+ku_phy_002+2023_AA5/about</guid>
+            <pubDate>Tue, 16 May 2023 00:55:52 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 나흥식
