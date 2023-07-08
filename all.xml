@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 04:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 05:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -353,7 +353,7 @@
             <title><![CDATA[(심화)클라우드 Application Developer 양성과정 (K-MOOC ─ 진행중)]]></title>
             <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
             <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Sat, 08 Jul 2023 04:14:34 GMT</pubDate>
+            <pubDate>Sat, 08 Jul 2023 05:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 서경진
