@@ -4,14 +4,32 @@
         <title>K-MOOC ─ 진행중</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 23:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 00:45:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈]]></title>
+            <title><![CDATA[초급베트남어 듣기말하기3]]></title>
             <link>http://www.kmooc.kr/courses?range=i</link>
             <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                이강우
+                </span>
+                <span class="kr01_school">Dankook University</span>
+                </div>
+                <div><time>2023/08/16</time>
+                
+                ~ <time>2023/10/01</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:DKUK+cfl009+2022_V1+type@asset+block@KakaoTalk_20230531_105207981.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[KOICA와 함께하는 국제개발협력 분야별 이슈]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA04+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 이지은 and 5 others
@@ -27,9 +45,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 국제개발협력: 범분야의 이해]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA02+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 김은미 and 4 others
@@ -45,9 +63,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 세계시민교육(일반인)]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA06+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA06+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 유성상 and 3 others
@@ -63,9 +81,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 프로젝트 사업관리]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA03+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA03+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 조상우 and 4 others
@@ -81,9 +99,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 국제개발협력 첫걸음]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA01+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 장현식 and 5 others
@@ -99,9 +117,9 @@
         </item>
         <item>
             <title><![CDATA[KOICA와 함께하는 SDGs 알아보기]]></title>
-            <link>http://www.kmooc.kr/courses?range=i</link>
-            <guid>http://www.kmooc.kr/courses?range=i</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA5+2023_3/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:KOICA+KOICA5+2023_3/about</guid>
+            <pubDate>Wed, 16 Aug 2023 00:44:27 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 권구순 and 10 others
@@ -708,24 +726,6 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:UKP+UKP002+2023_1+type@asset+block@%EA%B9%80%ED%98%84%EB%AC%B8_%EA%B5%90%EC%88%98%EB%8B%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-POP을 통해 배우는 STREET DANCE 기초 3]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:UKP+UKP003+2023_1/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:UKP+UKP003+2023_1/about</guid>
-            <pubDate>Tue, 15 Aug 2023 23:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                차호찬
-                </span>
-                <span class="kr01_school">KIMPO UNIVERSITY</span>
-                </div>
-                <div><time>2023/08/07</time>
-                
-                ~ <time>2023/08/28</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:UKP+UKP003+2023_1+type@asset+block@%EC%B0%A8%ED%98%B8%EC%B0%AC_%EA%B5%90%EC%88%98%EB%8B%98_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
