@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 08:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 09:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[3차원 그래픽스 입문 (K-MOOC ─ 진행중)]]></title>
-            <link>https://ArtManagementKR.github.io/kmooc/all.xml</link>
-            <guid>https://ArtManagementKR.github.io/kmooc/all.xml</guid>
-            <pubDate>Mon, 16 Oct 2023 07:11:23 GMT</pubDate>
+            <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS217+2022_1/about</guid>
+            <pubDate>Mon, 25 Sep 2023 00:48:13 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 윤태준
