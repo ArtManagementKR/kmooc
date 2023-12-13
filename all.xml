@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 16:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 17:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,7 +371,7 @@
             <title><![CDATA[디지털 스토리텔링과 게임 (K-MOOC ─ 개강예정)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS236+2022_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:NRF_COSS+NRF_COSS236+2022_1/about</guid>
-            <pubDate>Wed, 13 Dec 2023 16:14:04 GMT</pubDate>
+            <pubDate>Wed, 13 Dec 2023 16:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<div class="kr01-subtext">
                 <span class="kr01_professor">
                 홍진호
