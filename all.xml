@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 00:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,24 +206,6 @@
             <enclosure url="http://www.kmooc.kr/asset-v1:NRF_COSS+NRF_COSS220+2022_1+type@asset+block@ARVR_%EC%BD%98%ED%85%90%EC%B8%A0%EC%8B%A4%EB%AC%B4_image.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[소프트파워로서의 BTS: 팬덤, 문화, 관광 (K-MOOC ─ 진행중)]]></title>
-            <link>http://www.kmooc.kr/courses/course-v1:AYUk+AYUk_SP+2023_T2/about</link>
-            <guid>http://www.kmooc.kr/courses/course-v1:AYUk+AYUk_SP+2023_T2/about</guid>
-            <pubDate>Tue, 12 Dec 2023 12:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="kr01-subtext">
-                <span class="kr01_professor">
-                강준수
-                </span>
-                <span class="kr01_school">ANYANG UNIVERSITY</span>
-                </div>
-                <div><time>2023/09/01</time>
-                
-                ~ <time>2023/12/14</time>
-                
-                </div>]]></content:encoded>
-            <enclosure url="http://www.kmooc.kr/asset-v1:AYUk+AYUk_SP+2023_T2+type@asset+block@%EC%95%88%EC%96%91%EB%8C%80_%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The art of corporate strategy (K-MOOC ─ 진행중)]]></title>
             <link>http://www.kmooc.kr/courses/course-v1:INU+INU012+2023_L12_1/about</link>
             <guid>http://www.kmooc.kr/courses/course-v1:INU+INU012+2023_L12_1/about</guid>
@@ -366,6 +348,24 @@
                 
                 </div>]]></content:encoded>
             <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU005+2023_L5_2+type@asset+block@%EC%9D%B8%EC%B2%9C%EB%8C%80%ED%95%99%EA%B5%90-%EC%97%AD%EC%82%AC%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC_%EC%9C%84%ED%95%9C_%ED%95%9C%EA%B5%AD%EC%82%AC_%EC%97%BF%EB%B3%B4%EA%B8%B0_%EC%8B%A0%EC%9C%A0%EC%95%84_-A_peek_into_Korean_history_for_beginners_Shin_you_a_-%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일반화학1 (K-MOOC ─ 진행중)]]></title>
+            <link>http://www.kmooc.kr/courses/course-v1:INU+INU009+2023_L9_1/about</link>
+            <guid>http://www.kmooc.kr/courses/course-v1:INU+INU009+2023_L9_1/about</guid>
+            <pubDate>Thu, 14 Dec 2023 00:49:49 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="kr01-subtext">
+                <span class="kr01_professor">
+                김형준
+                </span>
+                <span class="kr01_school">Incheon National University</span>
+                </div>
+                <div><time>2023/09/01</time>
+                
+                ~ <time>2023/12/16</time>
+                
+                </div>]]></content:encoded>
+            <enclosure url="http://www.kmooc.kr/asset-v1:INU+INU009+2023_L9_1+type@asset+block@_%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98_%EC%9D%BC%EB%B0%98%ED%99%94%ED%95%991_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 스토리텔링과 게임 (K-MOOC ─ 개강예정)]]></title>
